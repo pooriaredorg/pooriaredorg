@@ -7,21 +7,9 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/pooriaredorg/POORIA--REDFREE8/refs/heads/main/POORIA--REDFREE8.txt#POORIA--REDFREE8",
     # "https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages/refs/heads/main/POORIAREDORG.pages.txt",
     "https://t.me/s/redfree8",
-    "https://t.me/s/v2ray_free_conf",
-    "https://t.me/s/PrivateVPNs",
-    "https://t.me/s/IP_CF_Config",
-    "https://t.me/s/shadowproxy66",
-    # "https://t.me/s/OutlineReleasedKey",
-    "https://t.me/s/prrofile_purple",
-    "https://t.me/s/proxy_shadosocks",
+    "https://t.me/s/redv2ray_channel",
     "https://t.me/s/meli_proxyy",
-    "https://t.me/s/DirectVPN",
-    "https://t.me/s/VmessProtocol",
-    "https://t.me/s/ViProxys",
-    "https://t.me/s/heyatserver",
-    "https://t.me/s/vpnfail_vless",
-    "https://t.me/s/DailyV2RY",
-    # "https://t.me/s/ShadowsocksM",
+    # "https://t.me/s/redfree88",
     # Add more URLs here if you want to include additional sources.
 ]
 
