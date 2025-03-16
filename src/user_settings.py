@@ -4,9 +4,9 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
-    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
-    # "https://raw.githubusercontent.com/yebekhe/vpn-fail/main/sub-link",
-    "https://t.me/s/FreeV2rays",
+    "https://raw.githubusercontent.com/pooriaredorg/POORIA--REDFREE8/refs/heads/main/POORIA--REDFREE8.txt#POORIA--REDFREE8",
+    # "https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages/refs/heads/main/POORIAREDORG.pages.txt",
+    "https://t.me/s/redfree8",
     "https://t.me/s/v2ray_free_conf",
     "https://t.me/s/PrivateVPNs",
     "https://t.me/s/IP_CF_Config",
