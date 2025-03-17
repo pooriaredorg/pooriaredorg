@@ -4,8 +4,6 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://%48%71%76%32%72%61%79%4E%47%63@hqmobin.ir:443?security=reality&pbk=FtDr_UhjnVUI0icGx9L4isHVQTNOl_cGsFEDSWigM28&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=7c4ea43b6c6f#@meli_proxyy
-
 vless://%69%64%54%65%6C%2D%48%71%76%32%72%61%79%4E%47@hqmobin.ir:443?security=reality&pbk=FtDr_UhjnVUI0icGx9L4isHVQTNOl_cGsFEDSWigM28&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=7c4ea43b6c6f#@meli_proxyy
 
 vless://10525b84-7f6e-43ef-912b-87434df813f4@172.64.34.232:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=news5.testsnew.com&type=ws&sni=news5.testsnew.com#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
@@ -60,6 +58,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2Fvpnowl%3Fe
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=%2Fvpnowl%3Fed%3D2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#@meli_proxyy
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MWYzZTA5ZjZjYzQ0NDEz@163.171.110.9:14066#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MFh3ZzBTYkhTTDhDdUNraUx1R2hP@188.126.93.105:15128#@meli_proxyy
@@ -88,11 +88,19 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWJjYjJkOGJiMWQ3ZGI3QDUxLjgxLjMzLjU6NDgyMzE
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#@meli_proxyy
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#@meli_proxyy
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOWZmNDk4YjkwMzM0Y2Vh@89.223.88.145:43190#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpueFMxYTdKTmxJY2JzTjhRNEVLTDV0@sto1.g.edgeservers.org:36632#@meli_proxyy
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#@meli_proxyy
+
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.156:8090#@meli_proxyy
+
+ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ%3D%3D@154.3.8.151:30067#@meli_proxyy
+
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@23.154.136.47:5498#@meli_proxyy
 
 hysteria2://0aed82ca-fd08-11ef-8cf9-f23c93136cb3@107.167.18.123:443?security=tls&insecure=1&sni=06a68208-st69s0-su9bm5-1phl.la.shifen.uk#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 
@@ -104,17 +112,7 @@ hysteria2://656e621e-dd2e-4cb6-b3b8-e0308cc53174@209.135.168.230:8080?security=t
 
 trojan://33fe5d7f-c9c1-4fd3-a2db-d0f3db6e5fba@tro-us02.gproxy.gratis:443?security=tls&headerType=none&type=tcp&sni=tro-us02.gproxy.gratis#@meli_proxyy
 
-trojan://Pooria@104.17.147.22:443?path=%2FtrJF1XisQEbWZpxEHh%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=redfree8w.pooriam.ir&fp=randomized&type=ws&sni=redfree8w.pooriam.ir#@meli_proxyy
-
 trojan://Pooria@www.speedtest.net:443?path=%2FtrJF1XisQEbWZpxEHh%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redw.pooriam.ir&fp=randomized&type=ws&sni=REdw.pOoRIaM.ir#➍ POORIA
 
 trojan://Pooria@www.speedtest.net:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redw.pooriam.ir&type=ws#➎ POORIA
-
-vmess://eyJhZGQiOiI0OS4xMy4zMC41MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MmVmZjJjYy03NDdhLTQwNzYtYTNjZi05NmEzYjAwZWI3OTQiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDk2IiwicHMiOiJAbWVsaV9wcm94eXkg2LPYsdmI2LHYp9uM4oCM2KjbjNi02KrYsSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsImlkIjoiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjIwOTUiLCJwcyI6IkBtZWxpX3Byb3h5eSDYs9ix2YjYsdin24zigIzYqNuM2LTYqtixIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiIxMDQuMjEuODAuMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidGFzbmltLnR3bjI0LmlyIiwiaWQiOiJhMjk1ZWQxMS0xOGY4LTRhYzQtODNiOC1hYjJhN2ZhZmRlODIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQE0zSERJTzEiLCJwb3J0IjoiMjA5NiIsInBzIjoiQG1lbGlfcHJveHl5INiz2LHZiNix2KfbjOKAjNio24zYtNiq2LEiLCJzY3kiOiJhdXRvIiwic25pIjoidGFzbmltLnR3bjI0LmlyIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXN3dXhpYW4ucGFpNTAyODgudWsiLCJpZCI6ImMzMTM2MDZmLTk4YzItNGQ3Yi1iYTc0LTQ4Yjk0ZjYxYjExZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODQ0MyIsInBzIjoiQG1lbGlfcHJveHl5INiz2LHZiNix2KfbjOKAjNio24zYtNiq2LEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
