@@ -6,6 +6,8 @@
 
 vless://%48%71%76%32%72%61%79%4E%47%63@hqmobin.ir:443?security=reality&pbk=FtDr_UhjnVUI0icGx9L4isHVQTNOl_cGsFEDSWigM28&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=7c4ea43b6c6f#@meli_proxyy
 
+vless://%69%64%54%65%6C%2D%48%71%76%32%72%61%79%4E%47@hqmobin.ir:443?security=reality&pbk=FtDr_UhjnVUI0icGx9L4isHVQTNOl_cGsFEDSWigM28&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=7c4ea43b6c6f#@meli_proxyy
+
 vless://10525b84-7f6e-43ef-912b-87434df813f4@172.64.34.232:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=news5.testsnew.com&type=ws&sni=news5.testsnew.com#@meli_proxyy
 
 vless://10525b84-7f6e-43ef-912b-87434df813f4@angelina.ns.cloudflare.com:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=news5.testsnew.com&type=ws&sni=news5.testsnew.com#@meli_proxyy
@@ -57,8 +59,6 @@ vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.142.124.126:80?type=tcp&security=
 vless://536d45be-c91a-4095-8e14-5f86895f3723@54.37.78.215:43305?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#@meli_proxyy
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=301.pooriam.ir&type=ws#%40meli_proxyy
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=301.pooriam.ir&type=ws#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MWYzZTA5ZjZjYzQ0NDEz@163.171.110.9:14066#@meli_proxyy
 
