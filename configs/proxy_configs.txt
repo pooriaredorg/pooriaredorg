@@ -22,8 +22,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?path=%2F&sec
 
 vless://259388c2-31be-4184-b8c1-d79e7a6fe2b5@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=2.wexer-rih.ir&type=ws#@meli_proxyy
 
-vless://315b209c-bdcd-412e-95b1-1d7608641dcc@mJe.nimhub.ir:2096?type=ws&path=%2F&host=mJe.nimhub.ir&security=tls&fp=random&alpn=h2%2Chttp%2F1.1&sni=mJe.nimhub.ir#@meli_proxyy
-
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@soccer120.info:2087?encryption=none&security=tls&sni=Tp287Dy4Cq.RaMaZaN3.iNfO&type=ws&alpn=h2http/1.1&host=Tp287Dy4Cq.RaMaZaN3.iNfO&path=/#@meli_proxyy
 
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@soccer120.info:2087?encryption=none&security=tls&sni=Tp290Sm0SI.MaDEInrONalDo1.ORg&type=ws&alpn=h2http/1.1&host=Tp290Sm0SI.MaDEInrONalDo1.ORg&path=/#@meli_proxyy
@@ -37,10 +35,6 @@ vless://473c2217-677d-58c8-87df-a75de10de1ad@95.164.34.105:8880?mode=gun&securit
 vless://473c2217-677d-58c8-87df-a75de10de1ad@vpnandroid2_tr.home.kg:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.142.124.126:80?type=tcp&security=none#@meli_proxyy
-
-vless://536d45be-c91a-4095-8e14-5f86895f3723@54.37.78.215:43305?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#@meli_proxyy
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=301.pooriam.ir&type=ws#@meli_proxyy
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2Fvpnowl%3Fed%3D2503&security=none&encryption=none&host=301.pooriam.ir&type=ws#@meli_proxyy
 
@@ -60,6 +54,12 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?path=%2F&securit
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.48:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=%2Fvpnowl%3Fed%3D2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#@meli_proxyy
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FTyQmE1ozm7iTqKPV%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=redp.pooriam.ir&fp=randomized&type=ws&sni=REdP.pOoRiAM.Ir#POORIARED
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FYHcDeYyqiNeX28up%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.poORiam.ir#%F0%9F%A5%B7POORIA
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1QDkxLjEwNi4xMDkuMTc6NDAwMDY=#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4OUNMbXZ0U3RuVUlUb3ZYQkNseGh1@flank3.g.edgeservers.org:54590/?POST%20#Server-3
@@ -75,8 +75,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQ3o4Vmt2SG9VSGRqdlFsZUpGVjlB@flank1.g.edges
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWJjYjJkOGJiMWQ3ZGI3QDUxLjgxLjMzLjU6NDAwMzg=#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWJjYjJkOGJiMWQ3ZGI3QDUxLjgxLjMzLjU6NDgyMzE=#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#@meli_proxyy
 
