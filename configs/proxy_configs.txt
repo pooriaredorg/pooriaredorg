@@ -10,8 +10,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:2087?mode=gun&securi
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=6PaI52dYm3.DmNeWnOd110.CoM&type=ws&sni=6PaI52dYm3.DmNeWnOd110.CoM#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 
-vless://259388c2-31be-4184-b8c1-d79e7a6fe2b5@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=2.wexer-rih.ir&type=ws#@meli_proxyy
-
 vless://44943a3e-0b7f-42ea-abfc-11703164708c@104.21.112.1:443?path=%2FXknzc5eLHCy19uEA%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bestiiiivpn.pages.dev&fp=randomized&type=ws&sni=beSTiiIiVPn.pAgeS.DEV#%40meli_proxyy
 
 vless://44943a3e-0b7f-42ea-abfc-11703164708c@104.21.16.1:443?path=%2FwW8MQFHTJsmD9T7n%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bestiiiivpn.pages.dev&fp=randomized&type=ws&sni=bestiiIiVPn.PAgeS.DEv#%40meli_proxyy
@@ -21,6 +19,8 @@ vless://44943a3e-0b7f-42ea-abfc-11703164708c@104.21.32.1:443?path=%2FLIY7lMwFSNO
 vless://44943a3e-0b7f-42ea-abfc-11703164708c@104.21.48.1:443?path=%2FfYAGAGPpqXp4wciV%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bestiiiivpn.pages.dev&fp=randomized&type=ws&sni=bEStIIiivpn.PagES.Dev#%40meli_proxyy
 
 vless://44943a3e-0b7f-42ea-abfc-11703164708c@104.21.96.1:443?path=%2FCjeV1LecCMo7iSQp%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bestiiiivpn.pages.dev&fp=randomized&type=ws&sni=BeStiiIIvpn.pages.dEv#%40meli_proxyy
+
+vless://44943a3e-0b7f-42ea-abfc-11703164708c@[2606:4700:3030::6815:6001]:443?path=%2Fk2mLJ7cHFbcngWb2%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bestiiiivpn.pages.dev&fp=randomized&type=ws&sni=BestiiiIVPn.paGeS.DEV#%40meli_proxyy
 
 vless://44943a3e-0b7f-42ea-abfc-11703164708c@www.speedtest.net:443?path=%2FvvtyV4uRSX8utapc%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bestiiiivpn.pages.dev&fp=randomized&type=ws&sni=BESTiIiIVpN.pAgES.DEv#%40meli_proxyy
 
@@ -86,9 +86,29 @@ ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ%3D%3D@154.3.8.151:30067#@meli_proxyy
 
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@23.154.136.47:5498#@meli_proxyy
 
+trojan://3rl7tiBCjg@iran.farsonline24.ir:2087?mode=gun&security=tls&authority=iran.farsonline24.ir&fp=chrome&type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&sni=iran.farsonline24.ir#%40meli_proxyy
+
+trojan://AzG2TaSSNG@support.sabapardaziran.ir:2087?mode=gun&security=tls&authority=support.sabapardaziran.ir&fp=chrome&type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&sni=support.sabapardaziran.ir#%40meli_proxyy
+
+trojan://GqZUkgDSir@iran.farsonline24.ir:2087?mode=gun&security=tls&authority=iran.farsonline24.ir&fp=chrome&type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&sni=iran.farsonline24.ir#%40meli_proxyy
+
 trojan://Pooria@www.speedtest.net:443?path=%2FtrJF1XisQEbWZpxEHh%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redw.pooriam.ir&fp=randomized&type=ws&sni=REdw.pOoRIaM.ir#➍ POORIA
 
 trojan://Pooria@www.speedtest.net:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redw.pooriam.ir&type=ws#➎ POORIA
+
+trojan://R8czKylp4C@iran.farsonline24.ir:2087?mode=gun&security=tls&authority=iran.farsonline24.ir&fp=chrome&type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&sni=iran.farsonline24.ir#%40meli_proxyy
+
+trojan://Z9LNB8WzJa@support.sabapardaziran.ir:2087?mode=gun&security=tls&authority=support.sabapardaziran.ir&fp=chrome&type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&sni=support.sabapardaziran.ir#%40meli_proxyy
+
+trojan://bNX116Dnt6@iran.farsonline24.ir:2087?mode=gun&security=tls&authority=iran.farsonline24.ir&fp=chrome&type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&sni=iran.farsonline24.ir#%40meli_proxyy
+
+trojan://i8WabLnyoO@iran.farsonline24.ir:2087?mode=gun&security=tls&authority=iran.farsonline24.ir&fp=chrome&type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&sni=iran.farsonline24.ir#%40meli_proxyy
+
+trojan://nzfnyjitV6@iran.farsonline24.ir:2087?mode=gun&security=tls&authority=iran.farsonline24.ir&fp=chrome&type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&sni=iran.farsonline24.ir#%40meli_proxyy
+
+trojan://p3OzBchdJ0@support.sabapardaziran.ir:2087?mode=gun&security=tls&authority=support.sabapardaziran.ir&fp=chrome&type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&sni=support.sabapardaziran.ir#%40meli_proxyy
+
+trojan://qQE5Yl3oU5@iran.farsonline24.ir:2087?mode=gun&security=tls&authority=iran.farsonline24.ir&fp=chrome&type=grpc&serviceName=%2F%F0%9F%86%94%40M3HDIO1&sni=iran.farsonline24.ir#%40meli_proxyy
 
 vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsImlkIjoiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjIwOTUiLCJwcyI6IkBtZWxpX3Byb3h5ediz2LHZiNix2KfbjOKAjNio24zYtNiq2LEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
