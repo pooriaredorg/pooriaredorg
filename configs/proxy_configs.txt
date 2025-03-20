@@ -4,42 +4,6 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://%56%32%52%41%58%58@SRCVPN.fastly80-3.hosting-ip.com:80?mode=auto&path=%2FTelegram%2C%56%32%52%41%58%58%2CTelegram%2C%3Fed%3D2048&alpn=Tel:@SRCVPN,@SRCVPN,@SRCVPN&host=BIG-bang.global.ssl.fastly.net&type=xhttp#@meli_proxyy
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@soccer120.info:2096?encryption=none&security=tls&sni=8YrMgOrTfU.bIgCoMpAnYhArD2.oRg&type=ws&alpn=h3h2&host=8YrMgOrTfU.bIgCoMpAnYhArD2.oRg&path=/#@meli_proxyy
-
-vless://252456af-eeaf-41a4-f4f2-d18a2d234301@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
-
-vless://252456af-eeaf-41a4-f4f2-d18a2d234301@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@meli_proxyy
-
-vless://28da528a-d2d4-4cf7-a11f-1a096eafbc63@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=2.wexer-rih.ir&type=ws#@meli_proxyy
-
-vless://2b53a368-9592-447d-9ed4-d8026189d18a@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fast-MOuNtAin.OneEaT.Co.&type=ws#@meli_proxyy
-
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@soccer120.info:2087?encryption=none&security=tls&sni=Tp288Dg5Ug.RaMaZaN2.iNfO&type=ws&alpn=h2http/1.1&host=Tp288Dg5Ug.RaMaZaN2.iNfO&path=/#@meli_proxyy
-
-vless://3868c9cd-3fbf-46ac-87ff-c941d1e0693f@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=1.wexer-rih.ir&type=ws#@meli_proxyy
-
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@107.170.52.137:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#@meli_proxyy
-
-vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.8.214:443?security=tls&encryption=none&host=crolinde.carlotta.cloudns.org&fp=chrome&type=ws&sni=crolinde.carlotta.cloudns.org#@meli_proxyy
-
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.142.241.215:80?type=tcp&security=none#@meli_proxyy
-
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@52.15.32.8:80?type=tcp&security=none#@meli_proxyy
-
-vless://4dc0a354-1fc7-433f-9b58-0fd017b0a6b3@185.125.103.139:30693?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=301.pooriam.ir&type=ws#@meli_proxyy
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.14.85:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#@meli_proxyy
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.60:2095?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.180:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.155:80?security=none&encryption=none&host=301.pooriam.ir&type=ws#@meli_proxyy
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FTyQmE1ozm7iTqKPV%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=redp.pooriam.ir&fp=randomized&type=ws&sni=REdP.pOoRiAM.Ir#POORIARED
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FYHcDeYyqiNeX28up%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.poORiam.ir#%F0%9F%A5%B7POORIA
@@ -50,67 +14,29 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=redw.pooriam.ir&path=/JF1XisQEbWZpxEHh?ed%3D2560&security=tls&fp=randomized&sni=REdw.pOoRIaM.ir&alpn=h2,http/1.1&fragment=100-200,1-1,tlshello#POORIA
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTyQmE1ozm7iTqKPV%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=redp.pooriam.ir&fp=randomized&type=ws&sni=REdP.pOoRiAM.Ir#POORIARED%20N%20TLS
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FYHcDeYyqiNeX28up%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.poORiam.ir#%F0%9F%A5%B7POORIA%20N%20TLS
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FoX7ferlJbwT9C2Wz%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=redfree8-304.pooriam.ir&fp=randomized&type=ws&sni=reDfReE8-304.POoRIaM.Ir#%F0%9F%A5%B7%F0%9F%94%A5POORIA%20N%20TLS
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.13.140:8443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@meli_proxyy
+vless://a87a868d-6ff9-40e3-8ecc-38988707e02b@199.232.8.123:443?path=%2FymM_v03KT7tqxB-n%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=red.pooriashop.com&fp=randomized&type=ws&sni=red.pooriashop.com#pooria_red+443+fastly
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZWYxNmU3ZDkxNjYwMzhlQDkxLjE0OS4yNTUuODo0OTExOQ==#@meli_proxyy
+vless://a87a868d-6ff9-40e3-8ecc-38988707e02b@199.232.8.123:80?path=%2FymM_v03KT7tqxB-n%3Fed%3D2048&security=none&encryption=none&host=red.pooriashop.com&type=ws#pooria_red+80+fastly
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODI3NzhjOTczYmQxYmJhQDY3LjIyMC42Ny41OTo0MjQyMw==#@meli_proxyy
+vless://a87a868d-6ff9-40e3-8ecc-38988707e02b@www.speedtest.net:443?path=%2FymM_v03KT7tqxB-n%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=mazandaran.pooriashop.ir&fp=randomized&type=ws&sni=mazandaran.pooriashop.ir#pooria_red+443
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTcxNDAyOTRjNGQxNGM4QDE0OS4xMDIuMTUyLjE4NDoxMDk0MA==#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MFh3ZzBTYkhTTDhDdUNraUx1R2hP@188.126.93.105:15128#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTllMzhkMWQ2ZGIxNGI0@157.173.109.231:11107#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjU5MjE2ZDEzYmZkY2IyQDM4LjExMC4xLjEyMzoxNDU3OQ==#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZGE1NmJjNDkwZmVhYmQ2@57.128.190.61:23436#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo%3D@107.181.151.147:43669#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMjc0NjBiMzc0ZDdkMzViQDM4Ljk2LjI1NS45MjoyNzkyMg==#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGI4OTE4YzNmM2Y3Njg3QDIxMi41Ni40Mi4xOTA6MjIyNzg=#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bjRFbTJocFdVU0NEUWFt@131.145.40.9:443#@meli_proxyy
+vless://a87a868d-6ff9-40e3-8ecc-38988707e02b@www.speedtest.net:80?path=%2FymM_v03KT7tqxB-n%3Fed%3D2048&security=none&encryption=none&host=mazandaran.pooriashop.ir&type=ws#pooria_red+80
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4OUNMbXZ0U3RuVUlUb3ZYQkNseGh1@flank3.g.edgeservers.org:54590/?POST%20#Server-3
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHemhWQ3VBaU9BbXlmSEM2S2VzSEJM@flank2.g.edgeservers.org:15780/?POST%20#Server-2
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVExTnpGag%3D%3D@185.231.205.179:8388#@meli_proxyy
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpablU4eU9ZNEF6VjNmUjNFN2lOQm00@flank4.g.edgeservers.org:7584/?POST%20#Server-4
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQ3o4Vmt2SG9VSGRqdlFsZUpGVjlB@flank1.g.edgeservers.org:43785/?POST%20#Server-1
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE%3D@[2600:3c0b::f03c:95ff:fe91:d3ba]:8080#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE%3D@[2a14:2f40:0:101::f3]:8080#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYXRoMWVpY2llU2hfIU1NeWJ%2BNEhULH1iQ0BvaHBoZWlSYWlnaGllcjBzaG9oZA%3D%3D@185.158.155.33:8388#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZTkyNTQ3ZDExNGRhNGZlQDM4Ljk2LjI1NS4yODoyNDUxMg==#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#@meli_proxyy
-
-trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#@meli_proxyy
-
-trojan://Pooria@104.17.147.22:80?path=%2FtrLwW5jiTelegramFreeV2Alpha%3Fed%3D2560&security=none&host=redfree8w.pooriam.ir&type=ws#@meli_proxyy
-
 trojan://Pooria@www.speedtest.net:443?path=%2FtrJF1XisQEbWZpxEHh%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redw.pooriam.ir&fp=randomized&type=ws&sni=REdw.pOoRIaM.ir#➍ POORIA
 
 trojan://Pooria@www.speedtest.net:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redw.pooriam.ir&type=ws#➎ POORIA
-
-hysteria2://c8ed6f77-3a96-46f9-9959-79118f9c1019@85.194.246.115:53252?security=tls&insecure=1&sni=www.bing.com#@meli_proxyy
 
