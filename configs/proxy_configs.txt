@@ -28,14 +28,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FYHcDeY
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FoX7ferlJbwT9C2Wz%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=redfree8-304.pooriam.ir&fp=randomized&type=ws&sni=reDfReE8-304.POoRIaM.Ir#%F0%9F%A5%B7%F0%9F%94%A5POORIA%20N%20TLS
 
-vless://a87a868d-6ff9-40e3-8ecc-38988707e02b@199.232.8.123:443?path=%2FymM_v03KT7tqxB-n%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=red.pooriashop.com&fp=randomized&type=ws&sni=red.pooriashop.com#pooria_red+443+fastly
-
-vless://a87a868d-6ff9-40e3-8ecc-38988707e02b@199.232.8.123:80?path=%2FymM_v03KT7tqxB-n%3Fed%3D2048&security=none&encryption=none&host=red.pooriashop.com&type=ws#pooria_red+80+fastly
-
-vless://a87a868d-6ff9-40e3-8ecc-38988707e02b@www.speedtest.net:443?path=%2FymM_v03KT7tqxB-n%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=mazandaran.pooriashop.ir&fp=randomized&type=ws&sni=mazandaran.pooriashop.ir#pooria_red+443
-
-vless://a87a868d-6ff9-40e3-8ecc-38988707e02b@www.speedtest.net:80?path=%2FymM_v03KT7tqxB-n%3Fed%3D2048&security=none&encryption=none&host=mazandaran.pooriashop.ir&type=ws#pooria_red+80
-
 trojan://POORIA@www.speedtest.net:443?path=%2FtrnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=redFree8-1gJ.PAgEs.DEv#%F0%9F%A5%B7POORIAred2
 
 trojan://Pooria@www.speedtest.net:443?path=%2Ftr2yoW16viXyJgQzHs%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=pooriared-eix.pages.dev&fp=randomized&type=ws&sni=poORIarEd-eiX.PAgES.dev#%F0%9F%A5%B7POORIAred12
@@ -48,11 +40,11 @@ trojan://Pooria@www.speedtest.net:443?path=%2Ftrc9crjng8yxPpdYfg%3Fed%3D2560&sec
 
 trojan://Pooria@www.speedtest.net:443?path=%2Ftri0ROwOs8qSJifDCz%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=pooriared-3bk.pages.dev&fp=randomized&type=ws&sni=PoORIaREd-3bK.PaGEs.Dev#%F0%9F%A5%B7POORIAred4
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MFh3ZzBTYkhTTDhDdUNraUx1R2hP@sto2.g.edgeservers.org:15128/?POST%20#Server-2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFNVY2FjMDZqQkEydmtRdjQ2SnBo@151.236.206.34:57462/?POST%20#Server-4
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVG5uT0RSQlpxRE9OcDh4R2R1YmFs@151.236.206.31:30567/?POST%20#Server-3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@151.236.206.32:39649/?POST%20#Server-2
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSTNuY3hGMkdQdVBpQjFsNWdpdGNP@sto4.g.edgeservers.org:63418/?POST%20#Server-4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVG5uT0RSQlpxRE9OcDh4R2R1YmFs@151.236.206.31:30567/?POST%20#Server-1
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpueFMxYTdKTmxJY2JzTjhRNEVLTDV0@sto1.g.edgeservers.org:36632/?POST%20#Server-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsM051Zm1XS3djTTdqYWY2SlQ5R3dT@151.236.206.33:57236/?POST%20#Server-3
 
