@@ -40,6 +40,8 @@ trojan://Pooria@www.speedtest.net:443?path=%2Ftrc9crjng8yxPpdYfg%3Fed%3D2560&sec
 
 trojan://Pooria@www.speedtest.net:443?path=%2Ftri0ROwOs8qSJifDCz%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=pooriared-3bk.pages.dev&fp=randomized&type=ws&sni=PoORIaREd-3bK.PaGEs.Dev#%F0%9F%A5%B7POORIAred4
 
+trojan://redfree8@www.speedtest.net:443?path=%2Ftrre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#ipsycho - @redfree8 ➎
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFNVY2FjMDZqQkEydmtRdjQ2SnBo@sto4.a.edgeservers.org:57462/?POST%20#Server-4
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@sto2.a.edgeservers.org:39649/?POST%20#Server-2
