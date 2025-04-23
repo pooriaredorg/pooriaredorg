@@ -30,6 +30,14 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Fre5Izb
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:443?path=%2FRiuadVWEiFmFyL3C%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=iPsyCHO.SUEx12.iR#%F0%9F%93%8C%F0%9F%A5%B7POORIA4
 
+vless://9e18a75b-c8b3-4107-a9be-ad472ff9a126@a.nl.maviks.eu:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=21181028b56c8702#%F0%9F%A5%B7%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBPOORIA%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam
+
+vless://9e18a75b-c8b3-4107-a9be-ad472ff9a126@cdn-nodes.maviks.eu:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&security=tls&encryption=none&host=cdn-nodes.maviks.eu&fp=chrome&type=ws&sni=cdn-nodes.maviks.eu#%F0%9F%A5%B7%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBPOORIA%F0%9F%9B%A0%20Reserve
+
+vless://9e18a75b-c8b3-4107-a9be-ad472ff9a126@nodes.maviks.eu:443?security=reality&encryption=none&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=f203719d3ff9a5f5#%F0%9F%A5%B7%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBPOORIA%F0%9F%87%A9%F0%9F%87%AA%20Germany
+
+vless://9e18a75b-c8b3-4107-a9be-ad472ff9a126@ru.maviks.eu:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#%F0%9F%A5%B7%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBPOORIA%F0%9F%87%B7%F0%9F%87%BA%20Russia
+
 trojan://POORIA@www.speedtest.net:443?path=%2FtrnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=redFree8-1gJ.PAgEs.DEv#%F0%9F%A5%B7POORIAred2
 
 trojan://Pooria@www.speedtest.net:443?path=%2Ftr2yoW16viXyJgQzHs%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=pooriared-eix.pages.dev&fp=randomized&type=ws&sni=poORIarEd-eiX.PAgES.dev#%F0%9F%A5%B7POORIAred12
