@@ -30,6 +30,16 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Fre5Izb
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:443?path=%2FRiuadVWEiFmFyL3C%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=iPsyCHO.SUEx12.iR#%F0%9F%93%8C%F0%9F%A5%B7POORIA4
 
+vless://a9052c35-1027-44e6-a673-5f3b9cf4496c@a.nl.cdn.maviks.eu:443?security=tls&type=httpupgrade&headerType=&path=%2FMaGLM25tSikPTFr75Q0Yri&host=cdn.maviks.eu&sni=cdn.maviks.eu&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Rotterdam
+
+vless://a9052c35-1027-44e6-a673-5f3b9cf4496c@a.nl.maviks.eu:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam
+
+vless://a9052c35-1027-44e6-a673-5f3b9cf4496c@e.nl.cdn.maviks.eu:443?security=tls&type=ws&headerType=&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&host=cdn-nodes.maviks.eu&sni=cdn-nodes.maviks.eu&fp=chrome#%F0%9F%9B%A0%20Reserve
+
+vless://a9052c35-1027-44e6-a673-5f3b9cf4496c@nodes.maviks.eu:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+
+vless://a9052c35-1027-44e6-a673-5f3b9cf4496c@ru.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BA%20Russia
+
 vless://fd1eead7-b33c-4871-b1de-7db1974aa20c@a.nl.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam
 
 vless://fd1eead7-b33c-4871-b1de-7db1974aa20c@cdn-nodes.maviks.eu:443?security=tls&type=ws&headerType=&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&host=cdn-nodes.maviks.eu&sni=cdn-nodes.maviks.eu&fp=chrome#%F0%9F%9B%A0%20Reserve
@@ -37,22 +47,6 @@ vless://fd1eead7-b33c-4871-b1de-7db1974aa20c@cdn-nodes.maviks.eu:443?security=tl
 vless://fd1eead7-b33c-4871-b1de-7db1974aa20c@nodes.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 
 vless://fd1eead7-b33c-4871-b1de-7db1974aa20c@ru.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BA%20Russia
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172/?POST%20#Server-1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172/?POST%20#Server-2
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.240.200.137:48172/?POST%20#Server-3
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.240.200.137:48172/?POST%20#Server-4
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0M1o1c3MzbTlQbmtWbVh6ZVdxZjdH@176.124.207.105:37322/?outline=1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEdnZFSWZ1ZGUwWlV0TU8yQ2hDYXF4@176.124.207.105:37322/?outline=1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpReU01eFVsRUNUSHBaa2RuVUxncXpD@176.124.207.105:37322/?outline=1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqNDEyM053SUhEVW0zVzdUQWxKZXFY@176.124.207.105:37322/?outline=1
 
 trojan://POORIA@www.speedtest.net:443?path=%2FtrnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=redFree8-1gJ.PAgEs.DEv#%F0%9F%A5%B7POORIAred2
 
@@ -67,4 +61,12 @@ trojan://Pooria@www.speedtest.net:443?path=%2Ftrc9crjng8yxPpdYfg%3Fed%3D2560&sec
 trojan://Pooria@www.speedtest.net:443?path=%2Ftri0ROwOs8qSJifDCz%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=pooriared-3bk.pages.dev&fp=randomized&type=ws&sni=PoORIaREd-3bK.PaGEs.Dev#%F0%9F%A5%B7POORIAred4
 
 trojan://redfree8@www.speedtest.net:443?path=%2Ftrre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#%F0%9F%93%8C%F0%9F%A5%B7POORIA3
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172/?POST%20#Server-1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172/?POST%20#Server-2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.240.200.137:48172/?POST%20#Server-3
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.240.200.137:48172/?POST%20#Server-4
 
