@@ -4,16 +4,6 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://20bcab05-074a-47c3-bdb6-54a9088412e3@a.nl.maviks.eu:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam
-
-vless://20bcab05-074a-47c3-bdb6-54a9088412e3@d.nl.cdn.maviks.eu:443?security=tls&type=httpupgrade&headerType=&path=%2FMaGLM25tSikPTFr75Q0Yri&host=cdn.maviks.eu&sni=cdn.maviks.eu&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Rotterdam
-
-vless://20bcab05-074a-47c3-bdb6-54a9088412e3@e.nl.cdn.maviks.eu:443?security=tls&type=ws&headerType=&path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&host=cdn-nodes.maviks.eu&sni=cdn-nodes.maviks.eu&fp=chrome#%F0%9F%9B%A0%20Reserve
-
-vless://20bcab05-074a-47c3-bdb6-54a9088412e3@nodes.maviks.eu:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany
-
-vless://20bcab05-074a-47c3-bdb6-54a9088412e3@ru.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BA%20Russia
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F2yoW16viXyJgQzHs%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pooriared-eix.pages.dev&fp=randomized&type=ws&sni=poORIarEd-eiX.PAgES.dev#%F0%9F%A5%B7POORIAred11
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FHWvmm6fLplPy4zLE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pooria-dth.pages.dev&fp=randomized&type=ws&sni=PoORiA-dtH.pAGEs.dEv#%F0%9F%A5%B7POORIAred5
