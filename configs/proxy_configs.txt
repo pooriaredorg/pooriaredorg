@@ -28,6 +28,8 @@ vless://9e18a75b-c8b3-4107-a9be-ad472ff9a126@a.nl.maviks.eu:8443?security=realit
 
 vless://9e18a75b-c8b3-4107-a9be-ad472ff9a126@d.nl.cdn.maviks.eu:443?security=tls&type=httpupgrade&headerType=&path=%2FMaGLM25tSikPTFr75Q0Yri&host=cdn.maviks.eu&sni=cdn.maviks.eu&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Rotterdam-POORIA
 
+vless://9e18a75b-c8b3-4107-a9be-ad472ff9a126@e.nl.cdn.maviks.eu:443?flow&type=ws&host=cdn-nodes.maviks.eu&path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&security=tls&sni=cdn-nodes.maviks.eu&fp=chrome&allowInsecure=0#%F0%9F%9B%A0%20ReservePOORIA
+
 vless://9e18a75b-c8b3-4107-a9be-ad472ff9a126@nodes.maviks.eu:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany-POORIA
 
 vless://9e18a75b-c8b3-4107-a9be-ad472ff9a126@ru.maviks.eu:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BA%20Russia-POORIA
