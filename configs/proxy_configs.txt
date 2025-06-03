@@ -24,8 +24,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FSMYKJg
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Fbr6azeAUAVe2CF6z%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=reedfree8mahsang2.redorg.ir&fp=randomized&type=ws&sni=REEdfREe8MahSaNg2.rEDOrG.IR#%F0%9F%A5%B7%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBPOORIA1
 
-vless://9e18a75b-c8b3-4107-a9be-ad472ff9a126@e.nl.cdn.maviks.eu:443?flow&type=ws&host=cdn-nodes.maviks.eu&path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&security=tls&sni=cdn-nodes.maviks.eu&fp=chrome&allowInsecure=0#%F0%9F%9B%A0%20ReservePOORIA
-
 trojan://POORIA@www.speedtest.net:443?path=%2FtrnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=redFree8-1gJ.PAgEs.DEv#%F0%9F%A5%B7POORIAred2
 
 trojan://Pooria@www.speedtest.net:443?path=%2Ftr2yoW16viXyJgQzHs%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=pooriared-eix.pages.dev&fp=randomized&type=ws&sni=poORIarEd-eiX.PAgES.dev#%F0%9F%A5%B7POORIAred12
