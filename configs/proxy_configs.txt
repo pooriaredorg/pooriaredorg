@@ -10,19 +10,11 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FHWvmm
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FLHZ0FE2ZE7CzCqlZ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=redfree8-418.pages.dev&fp=randomized&type=ws&sni=rEDFreE8-418.PagES.Dev#%F0%9F%A5%B7POORIAred9
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FSMYKJguKMzzhWY2O%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=redfree8mahsang3.redorg.ir&fp=randomized&type=ws&sni=RedfREe8mAhsanG3.RedOrG.ir#%F0%9F%A5%B7%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBPOORIA4
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2Fbr6azeAUAVe2CF6z%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=reedfree8mahsang2.redorg.ir&fp=randomized&type=ws&sni=REEdfREe8MahSaNg2.rEDOrG.IR#%F0%9F%A5%B7%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBPOORIA2
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2Fc9crjng8yxPpdYfg%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pooria-b16.pages.dev&fp=randomized&type=ws&sni=pooria-b16.PAGes.dev#%F0%9F%A5%B7POORIAred7
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2Fi0ROwOs8qSJifDCz%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pooriared-3bk.pages.dev&fp=randomized&type=ws&sni=PoORIaREd-3bK.PaGEs.Dev#%F0%9F%A5%B7POORIAred3
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=redFree8-1gJ.PAgEs.DEv#%F0%9F%A5%B7POORIAred1
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FSMYKJguKMzzhWY2O%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=redfree8mahsang3.redorg.ir&fp=randomized&type=ws&sni=RedfREe8mAhsanG3.RedOrG.ir#%F0%9F%A5%B7%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBPOORIA3
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Fbr6azeAUAVe2CF6z%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=reedfree8mahsang2.redorg.ir&fp=randomized&type=ws&sni=REEdfREe8MahSaNg2.rEDOrG.IR#%F0%9F%A5%B7%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBPOORIA1
 
 vless://9e18a75b-c8b3-4107-a9be-ad472ff9a126@a.nl.maviks.eu:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam-POORIA
 
