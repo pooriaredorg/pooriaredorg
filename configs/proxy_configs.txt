@@ -6,6 +6,8 @@
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?fragment=10-20,10-20,tlshello&flow=&type=ws&host=pooria.redfree8.ir&path=/DfTbyBt7RYSghxbG?ed%3D2560&security=tls&sni=POORiA.REDFREe8.IR&alpn=http/1.1,h2&fp=chrome&allowInsecure=1#%F0%9F%A5%B7%F0%9F%8F%BB%E2%98%80%EF%B8%8Fpooria/%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 
+POORIA:
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?fragment=100-200,100-200,tlshello&flow=&type=ws&host=pooria.redfree8.ir&path=/DfTbyBt7RYSghxbG?ed%3D2560&security=tls&sni=POORiA.REDFREe8.IR&alpn=http/1.1,h2&fp=chrome&allowInsecure=1#%F0%9F%A5%B7%F0%9F%8F%BB%E2%98%80%EF%B8%8Fpooria/%D9%87%D9%85%D8%B1%D8%A7%D9%87/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F23Tqza5sUEoZerW5%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooriatesti-c8s.pages.dev&fp=randomized&type=ws&sni=poorIATeSti-C8S.PAgES.DEv#🔥📌POORIA4
@@ -52,13 +54,13 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Fla3sY1
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FpYlvrOh1WyvqzKtg%3Fed%3D2560&security=&encryption=none&host=pooria300.sajaj26960.workers.dev&type=ws#🔥80📌POORIA1
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:80?flow=&type=ws&host=poOria.ReDPOORIaAB3.WOrkers.deV&path=/VBBS20T2ihcKjCfS?ed%3D2560&security=none#2%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:443?flow=&type=ws&host=POorIa.REdpOoRIAAB3.Workers.dev&path=/wv3aOVsPS8tLJetw?ed%3D2560&security=tls&sni=pOoRIA.rEDpOorIAAb3.wORKErS.DeV&alpn=http/1.1,h2&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA7
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:80?flow=&type=ws&host=pooria.gejase6122.workers.dev&path=/24wtHl7Bz0tfgci1?ed%3D2560&security=none#1%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:443?flow=&type=ws&host=pooria.divekot939.workers.dev&path=/Aie2oYHsv2KoweKf?ed%3D2560&security=tls&sni=pOorIa.DIVEkoT939.WOrKers.Dev&alpn=http/1.1,h2&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA15
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:80?flow=&type=ws&host=pooria3.divekot939.workers.dev&path=/la3sY1WOl4a0DcCs?ed%3D2560&security=none#4%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:443?flow=&type=ws&host=pooria.yesisol726.workers.dev&path=/ueBBJIzFGfGUamWZ?ed%3D2560&security=tls&sni=POoRIa.YeSiSol726.WOrKeRs.deV&alpn=http/1.1,h2&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA13
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:80?flow=&type=ws&host=pooria300.sajaj26960.workers.dev&path=/pYlvrOh1WyvqzKtg?ed%3D2560&security=none#5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:443?flow=&type=ws&host=pooria3.divekot939.workers.dev&path=/UvW6owJUFOY6dugi?ed%3D2560&security=tls&sni=PoOrIA3.dIVeKOT939.wOrkeRS.DEv&alpn=http/1.1,h2&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA8
 
 trojan://POORIA@www.speedtest.net:443?path=%2FtrnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=redFree8-1gJ.PAgEs.DEv#%F0%9F%A5%B7POORIAred2
 
@@ -79,4 +81,10 @@ trojan://Pooria@www.speedtest.net:443?path=%2Ftri0ROwOs8qSJifDCz%3Fed%3D2560&sec
 trojan://Pooria@www.speedtest.net:443?path=%2FtrueBBJIzFGfGUamWZ%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=pooria.yesisol726.workers.dev&fp=randomized&type=ws&sni=POoRIa.YeSiSol726.WOrKeRs.deV#🔥📌POORIA12
 
 trojan://Pooria@www.speedtest.net:80?path=%2FtrtHkT4RhUFdJ8pstz%3Fed%3D2560&security=none&host=pooria304.diyone7732.workers.dev&type=ws#🔥80📌POORIA6
+
+trojan://Pooria@zula.ir:443?type=ws&host=pooria.divekot939.workers.dev&path=/trAie2oYHsv2KoweKf?ed%3D2560&security=tls&sni=pOorIa.DIVEkoT939.WOrKers.Dev&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA14
+
+trojan://Pooria@zula.ir:443?type=ws&host=pooria.yesisol726.workers.dev&path=/trueBBJIzFGfGUamWZ?ed%3D2560&security=tls&sni=POoRIa.YeSiSol726.WOrKeRs.deV&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA12
+
+trojan://Pooria@zula.ir:443?type=ws&host=pooriatesti-dtg.pages.dev&path=/trNZsEQGgtCRP4GowJ?ed%3D2560&security=tls&sni=POORIAtEStI-Dtg.PAgEs.dev&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA10
 
