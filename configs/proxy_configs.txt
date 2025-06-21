@@ -4,6 +4,10 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.189.29:8080?flow=&type=ws&host=pooria.redfree8.ir&path=/DfTbyBt7RYSghxbG?ed%3D2560&security=none&advancedfragment=#%E2%98%80%EF%B8%8Fpooria/%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.189.29:8880?flow=&type=ws&host=pooria.redfree8.ir&path=/DfTbyBt7RYSghxbG?ed%3D2560&security=none&advancedfragment=#%E2%98%80%EF%B8%8Fpooria/%D9%87%D9%85%D8%B1%D8%A7%D9%87/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?fragment=10-20,10-20,tlshello&flow=&type=ws&host=pooria.redfree8.ir&path=/DfTbyBt7RYSghxbG?ed%3D2560&security=tls&sni=POORiA.REDFREe8.IR&alpn=http/1.1,h2&fp=chrome&allowInsecure=1#%F0%9F%A5%B7%F0%9F%8F%BB%E2%98%80%EF%B8%8Fpooria/%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 
 POORIA:
@@ -57,10 +61,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FpYlvrO
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:443?flow=&type=ws&host=POorIa.REdpOoRIAAB3.Workers.dev&path=/wv3aOVsPS8tLJetw?ed%3D2560&security=tls&sni=pOoRIA.rEDpOorIAAb3.wORKErS.DeV&alpn=http/1.1,h2&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA7
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:443?flow=&type=ws&host=pooria.divekot939.workers.dev&path=/Aie2oYHsv2KoweKf?ed%3D2560&security=tls&sni=pOorIa.DIVEkoT939.WOrKers.Dev&alpn=http/1.1,h2&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA15
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:443?flow=&type=ws&host=pooria.yesisol726.workers.dev&path=/ueBBJIzFGfGUamWZ?ed%3D2560&security=tls&sni=POoRIa.YeSiSol726.WOrKeRs.deV&alpn=http/1.1,h2&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA13
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@zula.ir:443?flow=&type=ws&host=pooria3.divekot939.workers.dev&path=/UvW6owJUFOY6dugi?ed%3D2560&security=tls&sni=PoOrIA3.dIVeKOT939.wOrkeRS.DEv&alpn=http/1.1,h2&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA8
 
 trojan://POORIA@www.speedtest.net:443?path=%2FtrnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=redFree8-1gJ.PAgEs.DEv#%F0%9F%A5%B7POORIAred2
 
