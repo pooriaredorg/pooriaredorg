@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-23T15:13:58.666499+00:00",
+  "timestamp": "2025-06-23T16:15:57.963316+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/miladnataj6/nontlsvstls/refs/heads/main/pooriared.txt",
@@ -11,8 +11,8 @@
         "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.48,
-        "last_success": "2025-06-23T15:13:47.777249+00:00",
+        "overall_score": 75.49,
+        "last_success": "2025-06-23T16:15:47.093413+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.07,
-        "last_success": "2025-06-23T15:13:49.787486+00:00",
+        "last_success": "2025-06-23T16:15:49.104450+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -58,7 +58,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 78.99,
-        "last_success": "2025-06-23T15:13:51.796125+00:00",
+        "last_success": "2025-06-23T16:15:51.113056+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -81,7 +81,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 88.63,
-        "last_success": "2025-06-23T15:13:54.304028+00:00",
+        "last_success": "2025-06-23T16:15:53.604357+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
