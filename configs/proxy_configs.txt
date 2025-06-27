@@ -88,3 +88,11 @@ trojan://Pooria@zula.ir:443?type=ws&host=pooria.yesisol726.workers.dev&path=/tru
 
 trojan://Pooria@zula.ir:443?type=ws&host=pooriatesti-dtg.pages.dev&path=/trNZsEQGgtCRP4GowJ?ed%3D2560&security=tls&sni=POORIAtEStI-Dtg.PAgEs.dev&fp=randomized&allowInsecure=0#%F0%9F%A4%96%F0%9F%93%8CPOORIA10
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-3
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-4
+
