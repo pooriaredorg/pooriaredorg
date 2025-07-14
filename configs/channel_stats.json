@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-14T19:11:08.967166+00:00",
+  "timestamp": "2025-07-14T20:14:52.369263+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/pooriaredorg/POORIARED/refs/heads/main/POORIARED.txt",
@@ -11,8 +11,8 @@
         "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.94,
-        "last_success": "2025-07-14T19:10:57.947524+00:00",
+        "overall_score": 76.95,
+        "last_success": "2025-07-14T20:14:41.241341+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 25,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.89,
-        "last_success": "2025-07-14T19:11:00.024570+00:00",
+        "overall_score": 79.8,
+        "last_success": "2025-07-14T20:14:43.375065+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.0,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.77,
-        "last_success": "2025-07-14T19:11:02.029354+00:00",
+        "overall_score": 77.71,
+        "last_success": "2025-07-14T20:14:45.418147+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -123,11 +123,11 @@
         "total_configs": 3,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.42,
-        "last_success": "2025-07-14T19:11:08.966466+00:00",
+        "overall_score": 91.44,
+        "last_success": "2025-07-14T20:14:52.368564+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
