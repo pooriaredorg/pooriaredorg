@@ -7,10 +7,8 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/pooriaredorg/POORIA--REDFREE8/refs/heads/main/POORIAM--REDFREE8.txt",
     "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
     # "https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages/refs/heads/main/POORIAREDORG.pages.txt",
-    "https://t.me/s/redfree8",
-    "https://t.me/s/redv2ray_channel",
     "https://t.me/s/pooriared",
-    # "https://t.me/s/redfree88",
+    # "https://t.me/s/redfree8",
     # Add more URLs here if you want to include additional sources.
 ]
 
