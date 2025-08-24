@@ -4,5 +4,5 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FYDtWI7pW2d7Gwt7x%3Fed%3D2560&security=none&encryption=none&host=test.pooriared.ir&type=ws#%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%F0%9F%99%8F%F0%9F%98%A2
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FYDtWI7pW2d7Gwt7x%3Fed%3D2560&security=none&encryption=none&host=test.pooriared.ir&type=ws#%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%F0%9F%99%8F%D9%BE%DB%8C%D8%A7%D9%85+%D8%A8%D8%AF%DB%8C%D8%AF
 
