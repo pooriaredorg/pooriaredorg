@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-08-24T09:26:20.128656+00:00",
+  "timestamp": "2025-08-24T12:25:32.351681+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/pooriaredorg/POORIARED/refs/heads/main/POORIARED.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 144,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.16,
+        "total_configs": 1,
+        "valid_configs": 1,
+        "unique_configs": 1,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.84,
-        "last_success": "2025-08-24T09:23:28.027510+00:00",
+        "overall_score": 99.82,
+        "last_success": "2025-08-24T12:22:40.657325+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 6,
+          "vless://": 1,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 6,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
@@ -28,18 +28,18 @@
       "url": "https://raw.githubusercontent.com/pooriaredorg/POORIA--REDFREE8/refs/heads/main/POORIAM--REDFREE8.txt",
       "enabled": true,
       "metrics": {
-        "total_configs": 49,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.14,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 78.36,
-        "last_success": "2025-08-24T09:23:30.171138+00:00",
+        "total_configs": 1,
+        "valid_configs": 1,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 40.0,
+        "last_success": null,
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 7,
+          "vless://": 1,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
@@ -71,7 +71,7 @@
       }
     },
     {
-      "url": "https://t.me/s/pooriared",
+      "url": "https://t.me/s/pooriared0",
       "enabled": false,
       "metrics": {
         "total_configs": 0,
