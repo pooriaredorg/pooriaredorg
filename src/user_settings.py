@@ -5,7 +5,7 @@
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/pooriaredorg/POORIARED0/refs/heads/main/POORIARED.txt",
     "https://raw.githubusercontent.com/pooriaredorg/POORIA--REDFREE80/refs/heads/main/POORIAM--REDFREE8.txt",
-    "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater0/refs/heads/main/configs.txt",
+    "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
     # "https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages0/refs/heads/main/POORIAREDORG.pages.txt",
     "https://t.me/s/pooriared0",
     # "https://t.me/s/redfree8",
