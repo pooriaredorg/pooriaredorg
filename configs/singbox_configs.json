@@ -79,7 +79,7 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇨🇦 vless-4432433c (Canada)",
+        "🇨🇦 vless-44113239 (Canada)",
         "direct"
       ]
     },
@@ -87,7 +87,7 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇦 vless-4432433c (Canada)"
+        "🇨🇦 vless-44113239 (Canada)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -99,7 +99,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-4432433c (Canada)",
+      "tag": "🇨🇦 vless-44113239 (Canada)",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
