@@ -1,8 +1,8 @@
 //profile-title: base64:8J+lt1BPT1JJQV9SRUQo2b7Ys9ixLdii2LHbjNin24zbjCk=
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/BXAMbot
-//profile-web-page-url: https://github.com/4n0nymou3
+//support-url: https://t.me/pooria_red
+//profile-web-page-url: https://github.com/pooriaredorg
 
 vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@9acdj4uk.tree-top.cc:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.apple.com&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1Amsterdam-pooria
 
