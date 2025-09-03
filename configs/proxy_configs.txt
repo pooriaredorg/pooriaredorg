@@ -38,11 +38,19 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=pooria.pooria2.workers.dev&path=/q2Xy49SRguXobgwE?ed%3D2560&security=tls&fp=randomized&sni=POORiA.PooRia2.WorkERs.dEv&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB443%E2%98%80%EF%B8%8FPOORIA2
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=pooria.pooria3.workers.dev&path=/q2Xy49SRguXobgwE?ed%3D2560&security=tls&fp=randomized&sni=POORiA.PooRia3.WorkERs.dEv&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB443%E2%98%80%EF%B8%8FPOORIA3
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=pooria.pooria4.workers.dev&path=/q2Xy49SRguXobgwE?ed%3D2560&security=tls&fp=randomized&sni=POORiA.PooRia4.WorkERs.dEv&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB443%E2%98%80%EF%B8%8FPOORIA4
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=pooria.pooriared-db4.workers.dev&path=/eyJqdW5rIjoiWjJFM1JuWmQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=tls&fp=chrome&sni=poORia.pOORiarEd-dB4.WoRkErS.dev&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB443%E2%98%80%EF%B8%8FPOORIA
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=pooria.pooria1.workers.dev&path=/yV910HOoWrBHj7Vn?ed%3D2560&security=none#%F0%9F%A5%B7%F0%9F%8F%BB80%E2%98%80%EF%B8%8FPOORIA1
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=pooria.pooria2.workers.dev&path=/ONcz8f8KvgFrb8op?ed%3D2560&security=none#%F0%9F%A5%B7%F0%9F%8F%BB80%E2%98%80%EF%B8%8FPOORIA2
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=pooria.pooria3.workers.dev&path=/ONcz8f8KvgFrb8op?ed%3D2560&security=none#%F0%9F%A5%B7%F0%9F%8F%BB80%E2%98%80%EF%B8%8FPOORIA3
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=pooria.pooria4.workers.dev&path=/ONcz8f8KvgFrb8op?ed%3D2560&security=none#%F0%9F%A5%B7%F0%9F%8F%BB80%E2%98%80%EF%B8%8FPOORIA4
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=pooria.pooriared-db4.workers.dev&path=/eyJqdW5rIjoicnBSeVhMVHk3bDdlTCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#%F0%9F%A5%B7%F0%9F%8F%BB80%E2%98%80%EF%B8%8FPOORIA
 
@@ -51,10 +59,6 @@ vless://73a97c67-3237-28b9-308c-9adca41d18f1@103.175.79.2:443?flow=xtls-rprx-vis
 vless://73a97c67-3237-28b9-308c-9adca41d18f1@146.19.90.2:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko#%F0%9F%87%B8%F0%9F%87%A8SC-01%20(pooria)
 
 vless://73a97c67-3237-28b9-308c-9adca41d18f1@178.20.215.2:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA#%F0%9F%87%AB%F0%9F%87%B7FR-01%20(pooria)
-
-vless://73a97c67-3237-28b9-308c-9adca41d18f1@213.232.120.2:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#%F0%9F%87%B9%F0%9F%87%B7TR-01%20(pooria)%20%5Bvless%20-%20tcp%5D
-
-vless://73a97c67-3237-28b9-308c-9adca41d18f1@5.181.171.2:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#%F0%9F%87%AE%F0%9F%87%B3IN-01%20%20POORIA
 
 trojan://POORIA@www.speedtest.net:443?path=%2FtrnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=PAgEs.DEv#%F0%9F%A5%B7POORIAred2
 
