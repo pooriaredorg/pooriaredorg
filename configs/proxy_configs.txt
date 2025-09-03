@@ -22,6 +22,8 @@ vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@nodes.maviks.eu:443?flow=xtls-rprx-
 
 vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@ru.maviks.eu:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=maviks.ru&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BARussia-pooria1
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?flow=&type=ws&host=pooria.pooria6-3df.workers.dev&path=/q2Xy49SRguXobgwE?ed%3D2560&security=tls&sni=pooria.pooria6-3df.workers.dev&alpn=http/1.1&fp=randomized&allowInsecure=0#%F0%9F%A5%B7%F0%9F%8F%BB443%E2%98%80%EF%B8%8FPOORIA6
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F2yoW16viXyJgQzHs%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pooriared-eix.pages.dev&fp=randomized&type=ws&sni=PAgES.dev#%F0%9F%A5%B7POORIAred11
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FHWvmm6fLplPy4zLE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pooria-dth.pages.dev&fp=randomized&type=ws&sni=pAGEs.dEv#%F0%9F%A5%B7POORIAred5
@@ -42,13 +44,13 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=pooria.pooria4.workers.dev&path=/q2Xy49SRguXobgwE?ed%3D2560&security=tls&fp=randomized&sni=POORiA.PooRia4.WorkERs.dEv&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB443%E2%98%80%EF%B8%8FPOORIA4
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=pooria.pooria6.workers.dev&path=/q2Xy49SRguXobgwE?ed%3D2560&security=tls&fp=randomized&sni=POORiA.PooRia6.WorkERs.dEv&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB443%E2%98%80%EF%B8%8FPOORIA6
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=pooria.pooria7.workers.dev&path=/q2Xy49SRguXobgwE?ed%3D2560&security=tls&fp=randomized&sni=POORiA.PooRia7.WorkERs.dEv&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB443%E2%98%80%EF%B8%8FPOORIA7
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=pooria.pooria8.workers.dev&path=/q2Xy49SRguXobgwE?ed%3D2560&security=tls&fp=randomized&sni=POORiA.PooRia8.WorkERs.dEv&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB443%E2%98%80%EF%B8%8FPOORIA8
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=pooria.pooriared-db4.workers.dev&path=/eyJqdW5rIjoiWjJFM1JuWmQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=tls&fp=chrome&sni=poORia.pOORiarEd-dB4.WoRkErS.dev&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB443%E2%98%80%EF%B8%8FPOORIA
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?flow=&type=ws&host=pooria.pooria6-3df.workers.dev&path=/ONcz8f8KvgFrb8op?ed%3D2560&security=none#%F0%9F%A5%B7%F0%9F%8F%BB80%E2%98%80%EF%B8%8FPOORIA6
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=pooria.pooria1.workers.dev&path=/yV910HOoWrBHj7Vn?ed%3D2560&security=none#%F0%9F%A5%B7%F0%9F%8F%BB80%E2%98%80%EF%B8%8FPOORIA1
 
@@ -57,8 +59,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=p
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=pooria.pooria3.workers.dev&path=/ONcz8f8KvgFrb8op?ed%3D2560&security=none#%F0%9F%A5%B7%F0%9F%8F%BB80%E2%98%80%EF%B8%8FPOORIA3
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=pooria.pooria4.workers.dev&path=/ONcz8f8KvgFrb8op?ed%3D2560&security=none#%F0%9F%A5%B7%F0%9F%8F%BB80%E2%98%80%EF%B8%8FPOORIA4
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=pooria.pooria6.workers.dev&path=/ONcz8f8KvgFrb8op?ed%3D2560&security=none#%F0%9F%A5%B7%F0%9F%8F%BB80%E2%98%80%EF%B8%8FPOORIA6
 
 trojan://POORIA@www.speedtest.net:443?path=%2FtrnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=PAgEs.DEv#%F0%9F%A5%B7POORIAred2
 
