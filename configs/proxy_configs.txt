@@ -12,7 +12,7 @@ vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@a.nl.cdn.maviks.ru:443?type=ws&host
 
 vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@a.ru.maviks.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=maviks.ru&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BARussia-pooria
 
-vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@b.nl.cdn.maviks.ru:443?flow=&type=ws&host=cdn-de.maviks.ru&path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&security=tls&sni=cdn-de.maviks.ru&fp=chrome&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AAGermany%20-%20Reserve-pooria1
+vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@b.nl.cdn.maviks.ru:443?flow=&type=ws&host=cdn-de.maviks.ru&path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&security=tls&sni=cdn-de.maviks.ru&fp=chrome&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AAGermany%20-%20Reserve-pooria1G
 
 vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@b.nl.cdn.maviks.ru:443?type=httpupgrade&host=cdn-nl.maviks.ru&path=/MaGLM25tSikPTFr75Q0Yri?ed%3D2560&security=tls&sni=cdn-nl.maviks.ru&fp=chrome&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1Amsterdam%20%E2%80%93%20Reserve-pooria
 
@@ -34,15 +34,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2Fi0ROw
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=PAgEs.DEv#%F0%9F%A5%B7POORIAred1
 
-vless://73a97c67-3237-28b9-308c-9adca41d18f1@103.175.79.2:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#%F0%9F%87%B5%F0%9F%87%B0PK-01%20POORIA
-
-vless://73a97c67-3237-28b9-308c-9adca41d18f1@146.19.90.2:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko#%F0%9F%87%B8%F0%9F%87%A8SC-01%20(pooria)
-
-vless://73a97c67-3237-28b9-308c-9adca41d18f1@178.20.215.2:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA#%F0%9F%87%AB%F0%9F%87%B7FR-01%20(pooria)
-
-vless://73a97c67-3237-28b9-308c-9adca41d18f1@213.232.120.2:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#%F0%9F%87%B9%F0%9F%87%B7TR-01%20(pooria)%20%5Bvless%20-%20tcp%5D
-
-vless://73a97c67-3237-28b9-308c-9adca41d18f1@5.181.171.2:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#%F0%9F%87%AE%F0%9F%87%B3IN-01%20%20POORIA
+vless://cicadanet@167.99.45.44:30402?flow=&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.journalofbigdata.springeropen.com&pbk=X0A-gB9NvXnTYsgN3ztH4D1-D3W9bg_OtY5ffUjc614&sid=2d9d1cbc94&spx=/meyah#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%A5%B7%F0%9F%8F%BBPOORIA%F0%9F%A5%B7%F0%9F%8F%BB
 
 trojan://POORIA@www.speedtest.net:443?path=%2FtrnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=PAgEs.DEv#%F0%9F%A5%B7POORIAred2
 
