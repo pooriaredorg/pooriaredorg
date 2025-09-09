@@ -34,6 +34,10 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2Fi0ROw
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=PAgEs.DEv#%F0%9F%A5%B7POORIAred1
 
+vless://b438158e-060b-4f64-8f7b-3729db9c5ec8@www.speedtest.net:443?type=ws&host=pooriaredorg.pooriared.ir&path=/eyJqdW5rIjoiRDdnZVl1NzVJUk1PIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&sni=PooRIaREdoRg.POoRIAReD.Ir&alpn=http/1.1&fp=chrome&allowInsecure=0#%F0%9F%92%A6%206%20-%20VLESS%20-%20Domain%20:%20443
+
+vless://b438158e-060b-4f64-8f7b-3729db9c5ec8@www.speedtest.net:80?type=ws&host=pooriaredorg.pooriared.ir&path=/eyJqdW5rIjoicWN2NGpjSklVSVdBNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#%F0%9F%92%A6%202%20-%20VLESS%20-%20Domain%20:%2080
+
 vless://cicadanet@167.99.45.44:30402?flow=&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.journalofbigdata.springeropen.com&pbk=X0A-gB9NvXnTYsgN3ztH4D1-D3W9bg_OtY5ffUjc614&sid=2d9d1cbc94&spx=/meyah#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%A5%B7%F0%9F%8F%BBPOORIA%F0%9F%A5%B7%F0%9F%8F%BB
 
 trojan://POORIA@www.speedtest.net:443?path=%2FtrnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=PAgEs.DEv#%F0%9F%A5%B7POORIAred2
@@ -47,4 +51,6 @@ trojan://Pooria@www.speedtest.net:443?path=%2FtrLHZ0FE2ZE7CzCqlZ%3Fed%3D2560&sec
 trojan://Pooria@www.speedtest.net:443?path=%2Ftrc9crjng8yxPpdYfg%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=pooria-b16.pages.dev&fp=randomized&type=ws&sni=PAGes.dev#%F0%9F%A5%B7POORIAred8
 
 trojan://Pooria@www.speedtest.net:443?path=%2Ftri0ROwOs8qSJifDCz%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=pooriared-3bk.pages.dev&fp=randomized&type=ws&sni=PaGEs.Dev#%F0%9F%A5%B7POORIAred4
+
+trojan://pooria@pooriaredorg.pooriared.ir:443?type=ws&host=pooriaredorg.pooriared.ir&path=/eyJqdW5rIjoiT0dha2lncEt0WE1FIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&sni=pOoRIArEDOrG.pOorIAred.ir&fp=chrome&allowInsecure=0#%F0%9F%92%A6%205%20-%20Trojan%20-%20Domain%20:%20443
 
