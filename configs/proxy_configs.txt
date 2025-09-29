@@ -30,15 +30,19 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FLHZ0F
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2Fc9crjng8yxPpdYfg%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pooria-b16.pages.dev&fp=randomized&type=ws&sni=PAGes.dev#%F0%9F%A5%B7POORIAred7
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FeyJqdW5rIjoiSEJWNEJTeVNPT1A1WDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pOOrIam.PoORia8.WOrKeRs.dEV&fp=chrome&allowinsecure=1&type=ws&sni=pOOrIam.PoORia8.WOrKeRs.dEV#POORIA%F0%9F%A5%B7%F0%9F%8F%BBtest443
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2Fi0ROwOs8qSJifDCz%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=pooriared-3bk.pages.dev&fp=randomized&type=ws&sni=PaGEs.Dev#%F0%9F%A5%B7POORIAred3
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=PAgEs.DEv#%F0%9F%A5%B7POORIAred1
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FeyJqdW5rIjoiSEJWNEJTeVNPT1A1WDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&alpn=h2,http/1.1&host=pOOrIam.PoORia8.WOrKeRs.dEV&fp=chrome&allowinsecure=1&type=ws&sni=pOOrIam.PoORia8.WOrKeRs.dEV#POORIA%F0%9F%A5%B7%F0%9F%8F%BBtest80
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=pooria300.sajaj26960.workers.dev&path=/pYlvrOh1WyvqzKtg?ed%3D2560&security=none#%F0%9F%94%A580%F0%9F%93%8CPOORIA1
 
-vless://b438158e-060b-4f64-8f7b-3729db9c5ec8@www.speedtest.net:443?type=ws&host=pooriaredorg.pooriared.ir&path=/eyJqdW5rIjoiRDdnZVl1NzVJUk1PIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&sni=PooRIaREdoRg.POoRIAReD.Ir&alpn=http/1.1&fp=chrome&allowInsecure=0#%F0%9F%92%A6%206%20-%20VLESS%20-%20Domain%20:%20443
+vless://b438158e-060b-4f64-8f7b-3729db9c5ec8@www.speedtest.net:443?type=ws&host=pooriaredorg.pooriared.ir&path=/eyJqdW5rIjoiRDdnZVl1NzVJUk1PIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&sni=PooRIaREdoRg.POoRIAReD.Ir&alpn=http/1.1&fp=chrome&allowInsecure=0#POORIA3
 
-vless://b438158e-060b-4f64-8f7b-3729db9c5ec8@www.speedtest.net:80?type=ws&host=pooriaredorg.pooriared.ir&path=/eyJqdW5rIjoicWN2NGpjSklVSVdBNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#%F0%9F%92%A6%202%20-%20VLESS%20-%20Domain%20:%2080
+vless://b438158e-060b-4f64-8f7b-3729db9c5ec8@www.speedtest.net:80?type=ws&host=pooriaredorg.pooriared.ir&path=/eyJqdW5rIjoicWN2NGpjSklVSVdBNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#POORIA1
 
 vless://beb4db65-f595-46b6-8eb9-e0a205472777@www.speedtest.net:443?path=%2FeyJqdW5rIjoicTJTVDVxSXBzdDdCVWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&host=pooria.pooriared-db4.workers.dev&fp=chrome&allowinsecure=0&type=ws&sni=pooria.pooriared-db4.workers.dev#POORIA+%E2%9E%8D%F0%9F%A5%B7%F0%9F%8F%BB
 
@@ -60,5 +64,5 @@ trojan://Pooria@www.speedtest.net:443?path=%2Ftrc9crjng8yxPpdYfg%3Fed%3D2560&sec
 
 trojan://Pooria@www.speedtest.net:443?path=%2Ftri0ROwOs8qSJifDCz%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=pooriared-3bk.pages.dev&fp=randomized&type=ws&sni=PaGEs.Dev#%F0%9F%A5%B7POORIAred4
 
-trojan://pooria@pooriaredorg.pooriared.ir:443?type=ws&host=pooriaredorg.pooriared.ir&path=/eyJqdW5rIjoiT0dha2lncEt0WE1FIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&sni=pOoRIArEDOrG.pOorIAred.ir&fp=chrome&allowInsecure=0#%F0%9F%92%A6%205%20-%20Trojan%20-%20Domain%20:%20443
+trojan://pooria@pooriaredorg.pooriared.ir:443?type=ws&host=pooriaredorg.pooriared.ir&path=/eyJqdW5rIjoiT0dha2lncEt0WE1FIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&sni=pOoRIArEDOrG.pOorIAred.ir&fp=chrome&allowInsecure=0#POORIA2
 
