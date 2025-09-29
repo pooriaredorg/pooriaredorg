@@ -40,6 +40,14 @@ vless://b438158e-060b-4f64-8f7b-3729db9c5ec8@www.speedtest.net:443?type=ws&host=
 
 vless://b438158e-060b-4f64-8f7b-3729db9c5ec8@www.speedtest.net:80?type=ws&host=pooriaredorg.pooriared.ir&path=/eyJqdW5rIjoicWN2NGpjSklVSVdBNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#%F0%9F%92%A6%202%20-%20VLESS%20-%20Domain%20:%2080
 
+vless://beb4db65-f595-46b6-8eb9-e0a205472777@www.speedtest.net:443?path=%2FeyJqdW5rIjoicTJTVDVxSXBzdDdCVWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&host=pooria.pooriared-db4.workers.dev&fp=chrome&allowinsecure=0&type=ws&sni=pooria.pooriared-db4.workers.dev#POORIA+%E2%9E%8D%F0%9F%A5%B7%F0%9F%8F%BB
+
+vless://beb4db65-f595-46b6-8eb9-e0a205472777@www.speedtest.net:80?path=%2FeyJqdW5rIjoicTJTVDVxSXBzdDdCVWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&host=pooria.pooriared-db4.workers.dev&fp=chrome&allowinsecure=0&type=ws&sni=pooria.pooriared-db4.workers.dev#POORIA%E2%9E%8C+%F0%9F%A5%B7%F0%9F%8F%BB
+
+vless://d56638d0-24c9-4acb-9926-c9405199e1bf@www.speedtest.net:443?path=%2FeyJqdW5rIjoiRFA4N2pQYW13VlQ3bkJhVSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&encryption=none&host=pOoRIA.pOorIaorg4.woRKeRs.DEv&fp=chrome&allowinsecure=0&type=ws&sni=pOoRIA.pOorIaorg4.woRKeRs.DEv#POORIA%E2%9E%8A%F0%9F%A5%B7%F0%9F%8F%BB
+
+vless://d56638d0-24c9-4acb-9926-c9405199e1bf@www.speedtest.net:80?path=%2FeyJqdW5rIjoiRFA4N2pQYW13VlQ3bkJhVSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=none&encryption=none&host=pOoRIA.pOorIaorg4.woRKeRs.DEv&fp=chrome&allowinsecure=0&type=ws&sni=pooria.pooriared-db4.workers.dev#POORIA%E2%9E%8B%F0%9F%A5%B7%F0%9F%8F%BB
+
 trojan://POORIA@www.speedtest.net:443?path=%2FtrnrgO14g1xZmGAbvA%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redfree8-1gj.pages.dev&fp=randomized&type=ws&sni=PAgEs.DEv#%F0%9F%A5%B7POORIAred2
 
 trojan://Pooria@www.speedtest.net:443?path=%2Ftr2yoW16viXyJgQzHs%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=pooriared-eix.pages.dev&fp=randomized&type=ws&sni=PAgES.dev#%F0%9F%A5%B7POORIAred12
