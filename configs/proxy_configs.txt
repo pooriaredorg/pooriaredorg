@@ -6,11 +6,11 @@
 
 vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@9acdj4uk.tree-top.cc:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.apple.com&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#%F0%9F%87%B3%F0%9F%87%B1Amsterdam-pooria
 
-vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@a.ru.maviks.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=maviks.ru&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BARussia-pooria
-
-vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@d.nl.cdn.maviks.eu:443?flow=&type=httpupgrade&host=cdn-nl.maviks.ru&path=/MaGLM25tSikPTFr75Q0Yri?ed%3D2560&security=tls&sni=cdn-nl.maviks.ru&fp=chrome&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1Amsterdam%20%E2%80%93%20Reserve-pooria1
+vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@d.nl.cdn.maviks.eu:443?flow=&type=httpupgrade&host=cdn.maviks.eu&path=/MaGLM25tSikPTFr75Q0Yri?ed%3D2560&security=tls&sni=cdn.maviks.eu&fp=chrome&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1Amsterdam%20%E2%80%93%20Reserve-pooria1
 
 vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@nodes.maviks.eu:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.microsoft.com&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AAGermany-pooria1
+
+vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@ru.maviks.eu:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=maviks.eu&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BARussia-pooria
 
 vless://13099fe8-7f9a-4a48-858e-cebc6b5b81fa@ru.maviks.eu:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=maviks.ru&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%F0%9F%87%B7%F0%9F%87%BARussia-pooria1
 
