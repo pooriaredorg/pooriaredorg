@@ -4,9 +4,9 @@
 //support-url: https://t.me/pooria_red
 //profile-web-page-url: https://github.com/pooriaredorg
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?flow=&type=ws&host=pooriared.pooriared1.workers.dev&path=/eyJqdW5rIjoiSEJWNEJTeVNPT1A1WDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=tls&sni=pooriared.pooriared1.workers.dev&alpn=http/1.1,h2&fp=chrome&allowInsecure=1#%D8%AF%DB%8C%DA%AF%D9%87%20%D8%A2%D8%AE%D8%B1%D8%A7%D8%B4%D9%87%20%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%A5%B7%F0%9F%8F%BB
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FeyJqdW5rIjoiSEJWNEJTeVNPT1A1WDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&host=pooriared.pooriared1.workers.dev&fp=chrome&allowinsecure=1&type=ws&sni=pooriared.pooriared1.workers.dev#%F0%9F%9A%A8%D8%A8%D8%B1%D8%A7%DB%8C+%D9%84%DB%8C%D9%86%DA%A9+%D8%AC%D8%AF%DB%8C%D8%AF+%D9%BE%DB%8C%D8%A7%D9%85+%D8%A8%D8%AF%DB%8C%D8%AF%F0%9F%9A%A8
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?flow=&type=ws&host=pooriared.pooriared1.workers.dev&path=/eyJqdW5rIjoiSEJWNEJTeVNPT1A1WDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#%D8%AF%DB%8C%DA%AF%D9%87%20%D8%A2%D8%AE%D8%B1%D8%A7%D8%B4%D9%87%20%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%A5%B7%F0%9F%8F%BB
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FeyJqdW5rIjoiSEJWNEJTeVNPT1A1WDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&host=pooriared.pooriared1.workers.dev&type=ws#%F0%9F%94%8B%D9%86%D8%B2%D8%AF%DB%8C%DA%A9+%D8%A8%D9%87+%D9%BE%D8%A7%DB%8C%D8%A7%D9%86+%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%DA%A9%F0%9F%94%8B
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=eyJqdW5rIjoiSEJWNEJTeVNPT1A1WDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&host=pooriared.pooria1.workers.dev&type=ws#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%BE%DB%8C%D8%A7%D9%85+%D8%A8%D8%AF%DB%8C%D8%AF%40POORIARED
 
