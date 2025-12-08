@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-08T18:34:58.386922+00:00",
+  "timestamp": "2025-12-08T21:19:23.185673+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/pooriaredorg/POORIARED/refs/heads/main/POORIARED.txt",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 80.38,
-        "last_success": "2025-12-08T18:34:51.800082+00:00",
+        "last_success": "2025-12-08T21:19:16.453474+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 4,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.41,
-        "last_success": "2025-12-08T18:34:53.860163+00:00",
+        "overall_score": 87.24,
+        "last_success": "2025-12-08T21:19:18.624808+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 81,
         "valid_configs": 8,
         "unique_configs": 4,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 64.91,
-        "last_success": "2025-12-08T18:34:55.903417+00:00",
+        "overall_score": 64.85,
+        "last_success": "2025-12-08T21:19:20.703446+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
