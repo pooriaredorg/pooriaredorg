@@ -79,12 +79,14 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇨🇦 vless-a3415d24 (Canada)",
-        "🇨🇦 vless-a0f3b9e5 (Canada)",
-        "🇨🇦 vless-1105061e (Canada)",
-        "🇨🇦 vless-6a5840a8 (Canada)",
-        "🇨🇦 vless-76547ad2 (Canada)",
-        "🇨🇦 trojan-2c814485 (Canada)",
+        "🇨🇦 vless-9b770f89 (Canada)",
+        "🇨🇦 vless-219eb480 (Canada)",
+        "🇨🇦 vless-51981587 (Canada)",
+        "🇨🇦 vless-4741aa85 (Canada)",
+        "🇨🇦 vless-918c81e2 (Canada)",
+        "🇨🇦 vless-b6a6d6bb (Canada)",
+        "🏳️ trojan-3cacbf01 (Unknown)",
+        "🇨🇦 trojan-b9906f36 (Canada)",
         "direct"
       ]
     },
@@ -92,12 +94,14 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇦 vless-a3415d24 (Canada)",
-        "🇨🇦 vless-a0f3b9e5 (Canada)",
-        "🇨🇦 vless-1105061e (Canada)",
-        "🇨🇦 vless-6a5840a8 (Canada)",
-        "🇨🇦 vless-76547ad2 (Canada)",
-        "🇨🇦 trojan-2c814485 (Canada)"
+        "🇨🇦 vless-9b770f89 (Canada)",
+        "🇨🇦 vless-219eb480 (Canada)",
+        "🇨🇦 vless-51981587 (Canada)",
+        "🇨🇦 vless-4741aa85 (Canada)",
+        "🇨🇦 vless-918c81e2 (Canada)",
+        "🇨🇦 vless-b6a6d6bb (Canada)",
+        "🏳️ trojan-3cacbf01 (Unknown)",
+        "🇨🇦 trojan-b9906f36 (Canada)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -109,7 +113,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-a3415d24 (Canada)",
+      "tag": "🇨🇦 vless-9b770f89 (Canada)",
       "server": "www.speedtest.net",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -129,7 +133,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-a0f3b9e5 (Canada)",
+      "tag": "🇨🇦 vless-219eb480 (Canada)",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -149,7 +153,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-1105061e (Canada)",
+      "tag": "🇨🇦 vless-51981587 (Canada)",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -169,7 +173,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-6a5840a8 (Canada)",
+      "tag": "🇨🇦 vless-4741aa85 (Canada)",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -189,7 +193,27 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-76547ad2 (Canada)",
+      "tag": "🇨🇦 vless-918c81e2 (Canada)",
+      "server": "www.speedtest.net",
+      "server_port": 443,
+      "uuid": "b438158e-060b-4f64-8f7b-3729db9c5ec8",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriaredorg.redorg1.ir",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/eyJqdW5rIjoiRDdnZVl1NzVJUk1PIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560",
+        "headers": {
+          "Host": "pooriaredorg.redorg1.ir"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-b6a6d6bb (Canada)",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "b438158e-060b-4f64-8f7b-3729db9c5ec8",
@@ -209,13 +233,30 @@
     },
     {
       "type": "trojan",
-      "tag": "🇨🇦 trojan-2c814485 (Canada)",
+      "tag": "🏳️ trojan-3cacbf01 (Unknown)",
       "server": "pooriaredorg.pooriared.ir",
       "server_port": 443,
       "password": "pooria",
       "tls": {
         "enabled": true,
         "server_name": "pOoRIArEDOrG.pOorIAred.ir",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {
+        "path": "/eyJqdW5rIjoiT0dha2lncEt0WE1FIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560",
+        "type": "ws"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇨🇦 trojan-b9906f36 (Canada)",
+      "server": "pooriaredorg.redorg1.ir",
+      "server_port": 443,
+      "password": "pooria",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriaredorg.redorg1.ir",
         "alpn": [],
         "insecure": true
       },

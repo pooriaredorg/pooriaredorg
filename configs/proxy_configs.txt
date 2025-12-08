@@ -12,7 +12,11 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=eyJqdW5rI
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=eyJqdW5rIjoiSEJWNEJTeVNPT1A1WDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&host=pooriared.pooria2.workers.dev&type=ws#%D8%A2%DB%8C%D8%AF%DB%8C+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%40POORIARED
 
+vless://b438158e-060b-4f64-8f7b-3729db9c5ec8@www.speedtest.net:443?path=%2FeyJqdW5rIjoiRDdnZVl1NzVJUk1PIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=pooriaredorg.redorg1.ir&fp=chrome&allowinsecure=0&type=ws&sni=pooriaredorg.redorg1.ir#%F0%9F%94%8A%D8%A8%D8%AF%D9%88+%D8%AA%D8%A7+%D9%82%D8%B7%D8%B9+%D9%86%D8%B4%D8%AF%DB%8C+%F0%9F%9A%B6%F0%9F%94%8B
+
 vless://b438158e-060b-4f64-8f7b-3729db9c5ec8@www.speedtest.net:80?path=%2FeyJqdW5rIjoicWN2NGpjSklVSVdBNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=none&encryption=none&host=pooriaredorg.pooriared.ir&type=ws#%D9%BE%DB%8C%D8%A7%D9%85+%D8%A8%D8%AF%DB%8C%D8%AF09119119956
 
 trojan://pooria@pooriaredorg.pooriared.ir:443?path=%2FeyJqdW5rIjoiT0dha2lncEt0WE1FIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&host=pooriaredorg.pooriared.ir&fp=chrome&allowinsecure=0&type=ws&sni=pOoRIArEDOrG.pOorIAred.ir#%F0%9F%A5%B7%F0%9F%8F%BB%E2%9D%8C%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87%E2%9D%8C%F0%9F%A5%B7%F0%9F%8F%BB
+
+trojan://pooria@pooriaredorg.redorg1.ir:443?path=%2FeyJqdW5rIjoiT0dha2lncEt0WE1FIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&host=pooriaredorg.redorg1.ir&fp=chrome&allowinsecure=0&type=ws&sni=pooriaredorg.redorg1.ir#%F0%9F%A5%B7%F0%9F%8F%BB%E2%9D%8C%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87%E2%9D%8C%F0%9F%A5%B7%F0%9F%8F%BB
 
