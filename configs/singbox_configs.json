@@ -79,14 +79,14 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇨🇦 vless-183ccff2 (Canada)",
-        "🇨🇦 vless-8432a130 (Canada)",
-        "🇨🇦 vless-52f9d7e7 (Canada)",
-        "🇨🇦 vless-2cd3ccc7 (Canada)",
-        "🇨🇦 vless-f416b98b (Canada)",
-        "🇨🇦 vless-64a5bd8e (Canada)",
-        "🏳️ trojan-900bd808 (Unknown)",
-        "🇨🇦 trojan-a9ea5e44 (Canada)",
+        "🇨🇦 vless-48545db7 (Canada)",
+        "🇨🇦 vless-42c0afbb (Canada)",
+        "🇨🇦 vless-09a484c4 (Canada)",
+        "🇨🇦 vless-3f635562 (Canada)",
+        "🇨🇦 vless-c95b6b54 (Canada)",
+        "🇨🇦 vless-df90b9f5 (Canada)",
+        "🏳️ trojan-87846fe0 (Unknown)",
+        "🇨🇦 trojan-a587b269 (Canada)",
         "direct"
       ]
     },
@@ -94,14 +94,14 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇨🇦 vless-183ccff2 (Canada)",
-        "🇨🇦 vless-8432a130 (Canada)",
-        "🇨🇦 vless-52f9d7e7 (Canada)",
-        "🇨🇦 vless-2cd3ccc7 (Canada)",
-        "🇨🇦 vless-f416b98b (Canada)",
-        "🇨🇦 vless-64a5bd8e (Canada)",
-        "🏳️ trojan-900bd808 (Unknown)",
-        "🇨🇦 trojan-a9ea5e44 (Canada)"
+        "🇨🇦 vless-48545db7 (Canada)",
+        "🇨🇦 vless-42c0afbb (Canada)",
+        "🇨🇦 vless-09a484c4 (Canada)",
+        "🇨🇦 vless-3f635562 (Canada)",
+        "🇨🇦 vless-c95b6b54 (Canada)",
+        "🇨🇦 vless-df90b9f5 (Canada)",
+        "🏳️ trojan-87846fe0 (Unknown)",
+        "🇨🇦 trojan-a587b269 (Canada)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -113,7 +113,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-183ccff2 (Canada)",
+      "tag": "🇨🇦 vless-48545db7 (Canada)",
       "server": "www.speedtest.net",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -133,7 +133,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-8432a130 (Canada)",
+      "tag": "🇨🇦 vless-42c0afbb (Canada)",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -153,7 +153,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-52f9d7e7 (Canada)",
+      "tag": "🇨🇦 vless-09a484c4 (Canada)",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -173,7 +173,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-2cd3ccc7 (Canada)",
+      "tag": "🇨🇦 vless-3f635562 (Canada)",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -193,7 +193,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-f416b98b (Canada)",
+      "tag": "🇨🇦 vless-c95b6b54 (Canada)",
       "server": "www.speedtest.net",
       "server_port": 443,
       "uuid": "b438158e-060b-4f64-8f7b-3729db9c5ec8",
@@ -213,7 +213,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-64a5bd8e (Canada)",
+      "tag": "🇨🇦 vless-df90b9f5 (Canada)",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "b438158e-060b-4f64-8f7b-3729db9c5ec8",
@@ -233,7 +233,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🏳️ trojan-900bd808 (Unknown)",
+      "tag": "🏳️ trojan-87846fe0 (Unknown)",
       "server": "pooriaredorg.pooriared.ir",
       "server_port": 443,
       "password": "pooria",
@@ -250,7 +250,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇨🇦 trojan-a9ea5e44 (Canada)",
+      "tag": "🇨🇦 trojan-a587b269 (Canada)",
       "server": "pooriaredorg.redorg1.ir",
       "server_port": 443,
       "password": "pooria",
