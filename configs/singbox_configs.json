@@ -79,11 +79,11 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇷🇺 vless-30f57857 (Russia)",
-        "🇷🇺 vless-1a81c0c2 (Russia)",
-        "🇬🇧 vless-1242af15 (United Kingdom)",
-        "🇬🇧 vless-376eea2e (United Kingdom)",
-        "🇬🇧 vless-9c637c40 (United Kingdom)",
+        "🇷🇺 vless-b5f2ed2a (Russia)",
+        "🇷🇺 vless-4a1a97e3 (Russia)",
+        "🇬🇧 vless-4c88b8e4 (United Kingdom)",
+        "🇬🇧 vless-891cc542 (United Kingdom)",
+        "🇬🇧 vless-e0a0174a (United Kingdom)",
         "direct"
       ]
     },
@@ -91,11 +91,11 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇷🇺 vless-30f57857 (Russia)",
-        "🇷🇺 vless-1a81c0c2 (Russia)",
-        "🇬🇧 vless-1242af15 (United Kingdom)",
-        "🇬🇧 vless-376eea2e (United Kingdom)",
-        "🇬🇧 vless-9c637c40 (United Kingdom)"
+        "🇷🇺 vless-b5f2ed2a (Russia)",
+        "🇷🇺 vless-4a1a97e3 (Russia)",
+        "🇬🇧 vless-4c88b8e4 (United Kingdom)",
+        "🇬🇧 vless-891cc542 (United Kingdom)",
+        "🇬🇧 vless-e0a0174a (United Kingdom)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -107,7 +107,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 vless-30f57857 (Russia)",
+      "tag": "🇷🇺 vless-b5f2ed2a (Russia)",
       "server": "iran.zone-server-irani.ir",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -127,7 +127,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇷🇺 vless-1a81c0c2 (Russia)",
+      "tag": "🇷🇺 vless-4a1a97e3 (Russia)",
       "server": "iran.zone-server-irani.ir",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -147,7 +147,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇬🇧 vless-1242af15 (United Kingdom)",
+      "tag": "🇬🇧 vless-4c88b8e4 (United Kingdom)",
       "server": "iranishop.redorg1.ir",
       "server_port": 443,
       "uuid": "5bab3ff1-0fdd-441f-972a-3d302cb89185",
@@ -167,7 +167,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇬🇧 vless-376eea2e (United Kingdom)",
+      "tag": "🇬🇧 vless-891cc542 (United Kingdom)",
       "server": "iranishop.redorg1.ir",
       "server_port": 443,
       "uuid": "d234afe1-0bd7-40cd-8e0c-77da8dff4a13",
@@ -187,7 +187,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇬🇧 vless-9c637c40 (United Kingdom)",
+      "tag": "🇬🇧 vless-e0a0174a (United Kingdom)",
       "server": "iranishop.redorg1.ir",
       "server_port": 443,
       "uuid": "e54e8a84-5b7b-4971-83a5-7f398e15db94",
