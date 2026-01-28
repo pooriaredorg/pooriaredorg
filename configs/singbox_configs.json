@@ -79,11 +79,8 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇦🇪 vless-d7514bcf (United Arab Emirates)",
-        "🇦🇪 vless-b4352b7e (United Arab Emirates)",
-        "🇬🇧 vless-0af00026 (United Kingdom)",
-        "🇬🇧 vless-32235467 (United Kingdom)",
-        "🇬🇧 vless-5cdd286a (United Kingdom)",
+        "🇦🇪 vless-b032ce3d (United Arab Emirates)",
+        "🇦🇪 vless-c990f813 (United Arab Emirates)",
         "direct"
       ]
     },
@@ -91,11 +88,8 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇦🇪 vless-d7514bcf (United Arab Emirates)",
-        "🇦🇪 vless-b4352b7e (United Arab Emirates)",
-        "🇬🇧 vless-0af00026 (United Kingdom)",
-        "🇬🇧 vless-32235467 (United Kingdom)",
-        "🇬🇧 vless-5cdd286a (United Kingdom)"
+        "🇦🇪 vless-b032ce3d (United Arab Emirates)",
+        "🇦🇪 vless-c990f813 (United Arab Emirates)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -107,7 +101,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇦🇪 vless-d7514bcf (United Arab Emirates)",
+      "tag": "🇦🇪 vless-b032ce3d (United Arab Emirates)",
       "server": "iran.zone-server-irani.ir",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -127,7 +121,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇦🇪 vless-b4352b7e (United Arab Emirates)",
+      "tag": "🇦🇪 vless-c990f813 (United Arab Emirates)",
       "server": "iran.zone-server-irani.ir",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -141,66 +135,6 @@
         "path": "eyJqdW5rIjoiSEJWNEJTeVNPT1A1WDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560",
         "headers": {
           "Host": "pooriared.pooria2.workers.dev"
-        },
-        "type": "ws"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇬🇧 vless-0af00026 (United Kingdom)",
-      "server": "iranishop.redorg1.ir",
-      "server_port": 443,
-      "uuid": "5bab3ff1-0fdd-441f-972a-3d302cb89185",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdn-nodes.maviks.eu",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/pLmdwS3fSrE9WwdgE3LdG2?ed=2560",
-        "headers": {
-          "Host": "cdn-nodes.maviks.eu"
-        },
-        "type": "ws"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇬🇧 vless-32235467 (United Kingdom)",
-      "server": "iranishop.redorg1.ir",
-      "server_port": 443,
-      "uuid": "d234afe1-0bd7-40cd-8e0c-77da8dff4a13",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdn-nodes.maviks.eu",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/pLmdwS3fSrE9WwdgE3LdG2?ed=2560",
-        "headers": {
-          "Host": "cdn-nodes.maviks.eu"
-        },
-        "type": "ws"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇬🇧 vless-5cdd286a (United Kingdom)",
-      "server": "iranishop.redorg1.ir",
-      "server_port": 443,
-      "uuid": "e54e8a84-5b7b-4971-83a5-7f398e15db94",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "cdn-nodes.maviks.eu",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/pLmdwS3fSrE9WwdgE3LdG2?ed=2560",
-        "headers": {
-          "Host": "cdn-nodes.maviks.eu"
         },
         "type": "ws"
       }

@@ -8,9 +8,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@iran.zone-server-irani.ir:80?path=e
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@iran.zone-server-irani.ir:80?path=eyJqdW5rIjoiSEJWNEJTeVNPT1A1WDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&host=pooriared.pooria2.workers.dev&type=ws#%D8%A2%DB%8C%D8%AF%DB%8C+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%40POORIARED
 
-vless://5bab3ff1-0fdd-441f-972a-3d302cb89185@iranishop.redorg1.ir:443?flow=&type=ws&host=cdn-nodes.maviks.eu&path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&security=tls&sni=cdn-nodes.maviks.eu&fp=chrome&allowInsecure=0#%E2%9C%85%F0%9F%9B%A0-POORIA%F0%9F%A5%B7%F0%9F%8F%BBFA
-
-vless://d234afe1-0bd7-40cd-8e0c-77da8dff4a13@iranishop.redorg1.ir:443?flow=&type=ws&host=cdn-nodes.maviks.eu&path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&security=tls&sni=cdn-nodes.maviks.eu&fp=chrome&allowInsecure=0#%E2%9C%85%F0%9F%9B%A0-POORIA%F0%9F%A5%B7%F0%9F%8F%BBFA2
-
-vless://e54e8a84-5b7b-4971-83a5-7f398e15db94@iranishop.redorg1.ir:443?flow=&type=ws&host=cdn-nodes.maviks.eu&path=/pLmdwS3fSrE9WwdgE3LdG2?ed%3D2560&security=tls&sni=cdn-nodes.maviks.eu&fp=chrome&allowInsecure=0#%E2%9C%85%F0%9F%9B%A0-POORIA%F0%9F%A5%B7%F0%9F%8F%BBAM
-
