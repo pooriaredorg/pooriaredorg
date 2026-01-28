@@ -8,3 +8,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@iran.zone-server-irani.ir:80?path=e
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@iran.zone-server-irani.ir:80?path=eyJqdW5rIjoiSEJWNEJTeVNPT1A1WDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&host=pooriared.pooria2.workers.dev&type=ws#%D8%A2%DB%8C%D8%AF%DB%8C+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%40POORIARED
 
+vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@a.de.maviks.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=maviks.ru&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%D9%BE%DB%8C%D8%A7%D9%85%20%D8%A8%D8%AF%DB%8C%D8%AF09119119956
+
