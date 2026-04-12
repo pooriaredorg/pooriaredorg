@@ -79,9 +79,9 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🏳️ vless-33fadfa7 (Unknown)",
-        "🏳️ vless-48e8f2a6 (Unknown)",
-        "🇩🇪 vless-1f75eb7c (Germany)",
+        "🏳️ vless-59dcdb16 (Unknown)",
+        "🏳️ vless-04a20cd4 (Unknown)",
+        "🇩🇪 vless-c33cc603 (Germany)",
         "direct"
       ]
     },
@@ -89,9 +89,9 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🏳️ vless-33fadfa7 (Unknown)",
-        "🏳️ vless-48e8f2a6 (Unknown)",
-        "🇩🇪 vless-1f75eb7c (Germany)"
+        "🏳️ vless-59dcdb16 (Unknown)",
+        "🏳️ vless-04a20cd4 (Unknown)",
+        "🇩🇪 vless-c33cc603 (Germany)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -103,7 +103,7 @@
     },
     {
       "type": "vless",
-      "tag": "🏳️ vless-33fadfa7 (Unknown)",
+      "tag": "🏳️ vless-59dcdb16 (Unknown)",
       "server": "iran.zone-server-irani.ir",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -123,7 +123,7 @@
     },
     {
       "type": "vless",
-      "tag": "🏳️ vless-48e8f2a6 (Unknown)",
+      "tag": "🏳️ vless-04a20cd4 (Unknown)",
       "server": "iran.zone-server-irani.ir",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -143,7 +143,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇩🇪 vless-1f75eb7c (Germany)",
+      "tag": "🇩🇪 vless-c33cc603 (Germany)",
       "server": "a.de.maviks.ru",
       "server_port": 443,
       "uuid": "ce13ec9d-0f04-49c0-9877-0e7d1e657895",
