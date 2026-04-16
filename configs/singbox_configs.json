@@ -79,7 +79,9 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇩🇪 vless-5f1f5fd8 (Germany)",
+        "🏳️ vless-2896694f (Unknown)",
+        "🏳️ vless-64e3c0fc (Unknown)",
+        "🇩🇪 vless-89567a11 (Germany)",
         "direct"
       ]
     },
@@ -87,7 +89,9 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇩🇪 vless-5f1f5fd8 (Germany)"
+        "🏳️ vless-2896694f (Unknown)",
+        "🏳️ vless-64e3c0fc (Unknown)",
+        "🇩🇪 vless-89567a11 (Germany)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -99,7 +103,47 @@
     },
     {
       "type": "vless",
-      "tag": "🇩🇪 vless-5f1f5fd8 (Germany)",
+      "tag": "🏳️ vless-2896694f (Unknown)",
+      "server": "iran.zone-server-irani.ir",
+      "server_port": 80,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "iran.zone-server-irani.ir",
+        "insecure": true
+      },
+      "transport": {
+        "path": "eyJqdW5rIjoiSEJWNEJTeVNPT1A1WDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560",
+        "headers": {
+          "Host": "pooriared.pooria1.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🏳️ vless-64e3c0fc (Unknown)",
+      "server": "iran.zone-server-irani.ir",
+      "server_port": 80,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "iran.zone-server-irani.ir",
+        "insecure": true
+      },
+      "transport": {
+        "path": "eyJqdW5rIjoiSEJWNEJTeVNPT1A1WDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560",
+        "headers": {
+          "Host": "pooriared.pooria2.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪 vless-89567a11 (Germany)",
       "server": "a.de.maviks.ru",
       "server_port": 443,
       "uuid": "ce13ec9d-0f04-49c0-9877-0e7d1e657895",
