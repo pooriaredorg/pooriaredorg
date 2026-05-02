@@ -79,7 +79,7 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇩🇪 vless-be7ead84 (Germany)",
+        "🇩🇪 vless-5bfbc296 (Germany)",
         "direct"
       ]
     },
@@ -87,7 +87,7 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇩🇪 vless-be7ead84 (Germany)"
+        "🇩🇪 vless-5bfbc296 (Germany)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -99,7 +99,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇩🇪 vless-be7ead84 (Germany)",
+      "tag": "🇩🇪 vless-5bfbc296 (Germany)",
       "server": "a.de.maviks.ru",
       "server_port": 443,
       "uuid": "ce13ec9d-0f04-49c0-9877-0e7d1e657895",
