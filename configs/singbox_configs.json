@@ -79,7 +79,34 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇩🇪 vless-356808d4 (Germany)",
+        "🇺🇸 vless-11c56440 (United States)",
+        "🇺🇸 vless-1ffa6016 (United States)",
+        "🇺🇸 vless-23c14747 (United States)",
+        "🇺🇸 vless-badcf818 (United States)",
+        "🇺🇸 vless-5c9e4b19 (United States)",
+        "🇺🇸 vless-f0786fee (United States)",
+        "🇺🇸 vless-f654cd43 (United States)",
+        "🇺🇸 vless-452e352d (United States)",
+        "🇺🇸 vless-07dfc5b0 (United States)",
+        "🇸🇬 vless-0d98d466 (Singapore)",
+        "🇸🇬 vless-896c6abf (Singapore)",
+        "🇯🇵 vless-5aeb09ab (Japan)",
+        "🇯🇵 vless-0645cf5d (Japan)",
+        "🇭🇰 vless-6843fa39 (Hong Kong)",
+        "🇺🇸 vless-056170ec (United States)",
+        "🇺🇸 vless-a37355ba (United States)",
+        "🇨🇦 vless-077d2834 (Canada)",
+        "🇨🇦 vless-d48c3586 (Canada)",
+        "🇨🇦 vless-833f2375 (Canada)",
+        "🇨🇦 vless-9b3c7981 (Canada)",
+        "🇨🇦 vless-1b05f564 (Canada)",
+        "🇨🇦 vless-e34feef7 (Canada)",
+        "🇨🇦 vless-6afe424c (Canada)",
+        "🇨🇦 vless-81f20955 (Canada)",
+        "🇨🇦 vless-14d2b5fc (Canada)",
+        "🇨🇦 vless-cb63b7f2 (Canada)",
+        "🇨🇦 vless-a9db808f (Canada)",
+        "🇨🇦 vless-eeedeed0 (Canada)",
         "direct"
       ]
     },
@@ -87,7 +114,34 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇩🇪 vless-356808d4 (Germany)"
+        "🇺🇸 vless-11c56440 (United States)",
+        "🇺🇸 vless-1ffa6016 (United States)",
+        "🇺🇸 vless-23c14747 (United States)",
+        "🇺🇸 vless-badcf818 (United States)",
+        "🇺🇸 vless-5c9e4b19 (United States)",
+        "🇺🇸 vless-f0786fee (United States)",
+        "🇺🇸 vless-f654cd43 (United States)",
+        "🇺🇸 vless-452e352d (United States)",
+        "🇺🇸 vless-07dfc5b0 (United States)",
+        "🇸🇬 vless-0d98d466 (Singapore)",
+        "🇸🇬 vless-896c6abf (Singapore)",
+        "🇯🇵 vless-5aeb09ab (Japan)",
+        "🇯🇵 vless-0645cf5d (Japan)",
+        "🇭🇰 vless-6843fa39 (Hong Kong)",
+        "🇺🇸 vless-056170ec (United States)",
+        "🇺🇸 vless-a37355ba (United States)",
+        "🇨🇦 vless-077d2834 (Canada)",
+        "🇨🇦 vless-d48c3586 (Canada)",
+        "🇨🇦 vless-833f2375 (Canada)",
+        "🇨🇦 vless-9b3c7981 (Canada)",
+        "🇨🇦 vless-1b05f564 (Canada)",
+        "🇨🇦 vless-e34feef7 (Canada)",
+        "🇨🇦 vless-6afe424c (Canada)",
+        "🇨🇦 vless-81f20955 (Canada)",
+        "🇨🇦 vless-14d2b5fc (Canada)",
+        "🇨🇦 vless-cb63b7f2 (Canada)",
+        "🇨🇦 vless-a9db808f (Canada)",
+        "🇨🇦 vless-eeedeed0 (Canada)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -99,17 +153,563 @@
     },
     {
       "type": "vless",
-      "tag": "🇩🇪 vless-356808d4 (Germany)",
-      "server": "a.de.maviks.ru",
+      "tag": "🇺🇸 vless-11c56440 (United States)",
+      "server": "103.21.246.114",
       "server_port": 443,
-      "uuid": "ce13ec9d-0f04-49c0-9877-0e7d1e657895",
-      "flow": "xtls-rprx-vision",
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "maviks.ru",
+        "server_name": "pooriatest.pooriashop24.workers.dev",
         "insecure": true
       },
-      "transport": {}
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-1ffa6016 (United States)",
+      "server": "103.21.246.200",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-23c14747 (United States)",
+      "server": "103.21.246.209",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-badcf818 (United States)",
+      "server": "103.21.246.219",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-5c9e4b19 (United States)",
+      "server": "103.21.246.48",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-f0786fee (United States)",
+      "server": "103.21.246.64",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-f654cd43 (United States)",
+      "server": "103.21.246.77",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-452e352d (United States)",
+      "server": "103.21.246.97",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-07dfc5b0 (United States)",
+      "server": "103.21.247.70",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇸🇬 vless-0d98d466 (Singapore)",
+      "server": "103.22.200.134",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇸🇬 vless-896c6abf (Singapore)",
+      "server": "103.22.200.57",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 vless-5aeb09ab (Japan)",
+      "server": "103.22.201.117",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇯🇵 vless-0645cf5d (Japan)",
+      "server": "103.22.201.49",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇭🇰 vless-6843fa39 (Hong Kong)",
+      "server": "103.22.203.45",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-056170ec (United States)",
+      "server": "103.31.4.70",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-a37355ba (United States)",
+      "server": "103.31.4.90",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-077d2834 (Canada)",
+      "server": "104.16.103.75",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-d48c3586 (Canada)",
+      "server": "104.16.174.118",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-833f2375 (Canada)",
+      "server": "104.16.174.139",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-9b3c7981 (Canada)",
+      "server": "104.16.174.253",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-1b05f564 (Canada)",
+      "server": "104.16.174.79",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-e34feef7 (Canada)",
+      "server": "104.16.174.81",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-6afe424c (Canada)",
+      "server": "104.16.71.14",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-81f20955 (Canada)",
+      "server": "104.16.71.189",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-14d2b5fc (Canada)",
+      "server": "104.16.71.49",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-cb63b7f2 (Canada)",
+      "server": "104.16.72.105",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-a9db808f (Canada)",
+      "server": "104.16.72.139",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-eeedeed0 (Canada)",
+      "server": "104.16.72.162",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriatest.pooriashop24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/",
+        "headers": {
+          "Host": "pooriatest.pooriashop24.workers.dev"
+        },
+        "type": "ws"
+      }
     }
   ],
   "route": {
