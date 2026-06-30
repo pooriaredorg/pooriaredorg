@@ -79,7 +79,7 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🏳️ vless-bb8c14fa (Unknown)",
+        "🏳️ vless-563bc1fb (Unknown)",
         "direct"
       ]
     },
@@ -87,7 +87,7 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🏳️ vless-bb8c14fa (Unknown)"
+        "🏳️ vless-563bc1fb (Unknown)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -99,7 +99,7 @@
     },
     {
       "type": "vless",
-      "tag": "🏳️ vless-bb8c14fa (Unknown)",
+      "tag": "🏳️ vless-563bc1fb (Unknown)",
       "server": "a.de.maviks.ru",
       "server_port": 443,
       "uuid": "ce13ec9d-0f04-49c0-9877-0e7d1e657895",
