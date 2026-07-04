@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T08:39:43.132205+00:00",
+  "timestamp": "2026-07-04T10:54:55.168844+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/pooriaredorg/POORIARED/refs/heads/main/POORIARED.txt",
@@ -54,11 +54,11 @@
         "total_configs": 1,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.77,
-        "last_success": "2026-07-04T08:39:40.472618+00:00",
+        "overall_score": 99.8,
+        "last_success": "2026-07-04T10:54:52.476081+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
