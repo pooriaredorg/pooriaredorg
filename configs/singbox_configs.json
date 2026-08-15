@@ -79,7 +79,8 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🏳️ vless-f7569a49 (Unknown)",
+        "🇺🇸 vless-78915498 (United States)",
+        "🇺🇸 vless-842e1f83 (United States)",
         "direct"
       ]
     },
@@ -87,7 +88,8 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🏳️ vless-f7569a49 (Unknown)"
+        "🇺🇸 vless-78915498 (United States)",
+        "🇺🇸 vless-842e1f83 (United States)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -99,14 +101,28 @@
     },
     {
       "type": "vless",
-      "tag": "🏳️ vless-f7569a49 (Unknown)",
-      "server": "a.de.maviks.ru",
+      "tag": "🇺🇸 vless-78915498 (United States)",
+      "server": "ipf2.justrouting.sbs",
       "server_port": 443,
-      "uuid": "ce13ec9d-0f04-49c0-9877-0e7d1e657895",
-      "flow": "xtls-rprx-vision",
+      "uuid": "02e1383f-3301-4f29-8cd8-22ada161419d",
+      "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "maviks.ru",
+        "server_name": "python.org",
+        "insecure": true
+      },
+      "transport": {}
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-842e1f83 (United States)",
+      "server": "pooriaorg1test.up.railway.app",
+      "server_port": 443,
+      "uuid": "e5db9752-ac6b-ef10-1136-fc943e816809",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriaorg1test.up.railway.app",
         "insecure": true
       },
       "transport": {}

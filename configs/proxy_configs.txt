@@ -4,5 +4,7 @@
 //support-url: https://t.me/pooria_red
 //profile-web-page-url: https://github.com/pooriaredorg
 
-vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@a.de.maviks.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=maviks.ru&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%F0%9F%87%A9%F0%9F%87%AA%D9%BE%DB%8C%D8%A7%D9%85%20%D8%A8%D8%AF%DB%8C%D8%AF09119119956
+vless://02e1383f-3301-4f29-8cd8-22ada161419d@ipf2.justrouting.sbs:443?type=xhttp&security=tls&fp=chrome&sni=python.org&path=/dl?ed%3D2560&host=when-day-is-dark.global.ssl.fastly.net&mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#Germany%F0%9F%87%A9%F0%9F%87%AA%23pooria
+
+vless://e5db9752-ac6b-ef10-1136-fc943e816809@pooriaorg1test.up.railway.app:443?path=%2Fxhttp-siz10%2Fpacket-up%2Fe5db9752-ac6b-ef10-1136-fc943e816809&alpn=h2%2Chttp%2F1.1&security=tls&sni=pooriaorg1test.up.railway.app&insecure=0&mode=packet-up&host=pooriaorg1test.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&encryption=none#pooriaXHTTP%20%C2%B7%20packet-up
 
