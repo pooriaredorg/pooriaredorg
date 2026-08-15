@@ -79,8 +79,13 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 vless-78915498 (United States)",
-        "🇺🇸 vless-842e1f83 (United States)",
+        "🇺🇸 vless-ebcce5b3 (United States)",
+        "🇨🇦 vless-4ce6f8f0 (Canada)",
+        "🇨🇦 vless-5471ceee (Canada)",
+        "🇨🇦 vless-fa175a3f (Canada)",
+        "🇨🇦 vless-d85d90d5 (Canada)",
+        "🇨🇦 vless-74c3fab0 (Canada)",
+        "🇺🇸 vless-bd4be4da (United States)",
         "direct"
       ]
     },
@@ -88,8 +93,13 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 vless-78915498 (United States)",
-        "🇺🇸 vless-842e1f83 (United States)"
+        "🇺🇸 vless-ebcce5b3 (United States)",
+        "🇨🇦 vless-4ce6f8f0 (Canada)",
+        "🇨🇦 vless-5471ceee (Canada)",
+        "🇨🇦 vless-fa175a3f (Canada)",
+        "🇨🇦 vless-d85d90d5 (Canada)",
+        "🇨🇦 vless-74c3fab0 (Canada)",
+        "🇺🇸 vless-bd4be4da (United States)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -101,7 +111,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-78915498 (United States)",
+      "tag": "🇺🇸 vless-ebcce5b3 (United States)",
       "server": "ipf2.justrouting.sbs",
       "server_port": 443,
       "uuid": "02e1383f-3301-4f29-8cd8-22ada161419d",
@@ -115,7 +125,107 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-842e1f83 (United States)",
+      "tag": "🇨🇦 vless-4ce6f8f0 (Canada)",
+      "server": "iranishop1.redorg1.ir",
+      "server_port": 443,
+      "uuid": "b4aaeb48-8fc0-fd1e-820e-976d00000015",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriared.pooriaultra21.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/sync",
+        "headers": {
+          "Host": "pooriared.pooriaultra21.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-5471ceee (Canada)",
+      "server": "iranishop1.redorg1.ir",
+      "server_port": 443,
+      "uuid": "b4aaeb48-8fc0-fd1e-820e-976d00000016",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriared.pooriaultra22.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/sync",
+        "headers": {
+          "Host": "pooriared.pooriaultra22.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-fa175a3f (Canada)",
+      "server": "iranishop1.redorg1.ir",
+      "server_port": 443,
+      "uuid": "b4aaeb48-8fc0-fd1e-820e-976d00000017",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriared.pooriaultra19.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/sync",
+        "headers": {
+          "Host": "pooriared.pooriaultra19.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-d85d90d5 (Canada)",
+      "server": "iranishop1.redorg1.ir",
+      "server_port": 443,
+      "uuid": "b4aaeb48-8fc0-fd1e-820e-976d00000018",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriared.pooriaultra24.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/sync",
+        "headers": {
+          "Host": "pooriared.pooriaultra24.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-74c3fab0 (Canada)",
+      "server": "iranishop1.redorg1.ir",
+      "server_port": 443,
+      "uuid": "b4aaeb48-8fc0-fd1e-820e-976d00000019",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriared.pooriaultra25.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/sync",
+        "headers": {
+          "Host": "pooriared.pooriaultra25.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-bd4be4da (United States)",
       "server": "pooriaorg1test.up.railway.app",
       "server_port": 443,
       "uuid": "e5db9752-ac6b-ef10-1136-fc943e816809",
