@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T09:37:37.751735+00:00",
+  "timestamp": "2026-08-21T12:50:38.518023+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/pooriaredorg/POORIARED/refs/heads/main/POORIARED.txt",
@@ -58,7 +58,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 76.17,
-        "last_success": "2026-08-21T09:37:35.043986+00:00",
+        "last_success": "2026-08-21T12:50:36.065717+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
