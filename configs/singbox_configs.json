@@ -79,10 +79,10 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 vless-56d8294f (United States)",
-        "🇺🇸 vless-f56facf3 (United States)",
-        "🇺🇸 vless-a38e235f (United States)",
-        "🇺🇸 vless-3e599a3c (United States)",
+        "🇺🇸 vless-7c71091e (United States)",
+        "🇺🇸 vless-cd1de7e2 (United States)",
+        "🇺🇸 vless-859ceceb (United States)",
+        "🇺🇸 vless-5e5f85d8 (United States)",
         "direct"
       ]
     },
@@ -90,10 +90,10 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 vless-56d8294f (United States)",
-        "🇺🇸 vless-f56facf3 (United States)",
-        "🇺🇸 vless-a38e235f (United States)",
-        "🇺🇸 vless-3e599a3c (United States)"
+        "🇺🇸 vless-7c71091e (United States)",
+        "🇺🇸 vless-cd1de7e2 (United States)",
+        "🇺🇸 vless-859ceceb (United States)",
+        "🇺🇸 vless-5e5f85d8 (United States)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -105,7 +105,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-56d8294f (United States)",
+      "tag": "🇺🇸 vless-7c71091e (United States)",
       "server": "spider-uaww-production.up.railway.app",
       "server_port": 443,
       "uuid": "47e5d296-5db4-44c2-98e5-aef48e1d21c3",
@@ -125,7 +125,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-f56facf3 (United States)",
+      "tag": "🇺🇸 vless-cd1de7e2 (United States)",
       "server": "spider-uaww-production.up.railway.app",
       "server_port": 443,
       "uuid": "47e5d296-5db4-44c2-98e5-aef48e1d21c3",
@@ -145,7 +145,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-a38e235f (United States)",
+      "tag": "🇺🇸 vless-859ceceb (United States)",
       "server": "spider-26i0-production.up.railway.app",
       "server_port": 443,
       "uuid": "803cba21-6206-419e-8f8f-827228d9d6a2",
@@ -165,7 +165,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-3e599a3c (United States)",
+      "tag": "🇺🇸 vless-5e5f85d8 (United States)",
       "server": "spider-26i0-production.up.railway.app",
       "server_port": 443,
       "uuid": "803cba21-6206-419e-8f8f-827228d9d6a2",
