@@ -79,13 +79,8 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 vless-ba5a0a58 (United States)",
-        "🇺🇸 vless-2ee2b833 (United States)",
-        "🇺🇸 vless-75a65316 (United States)",
-        "🇺🇸 vless-f35444cc (United States)",
-        "🇺🇸 trojan-2a33a980 (United States)",
-        "🇺🇸 trojan-6c1459f9 (United States)",
-        "🇺🇸 trojan-d512b5b3 (United States)",
+        "🇺🇸 vless-cc81d41b (United States)",
+        "🇺🇸 vless-03e7ee29 (United States)",
         "direct"
       ]
     },
@@ -93,13 +88,8 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 vless-ba5a0a58 (United States)",
-        "🇺🇸 vless-2ee2b833 (United States)",
-        "🇺🇸 vless-75a65316 (United States)",
-        "🇺🇸 vless-f35444cc (United States)",
-        "🇺🇸 trojan-2a33a980 (United States)",
-        "🇺🇸 trojan-6c1459f9 (United States)",
-        "🇺🇸 trojan-d512b5b3 (United States)"
+        "🇺🇸 vless-cc81d41b (United States)",
+        "🇺🇸 vless-03e7ee29 (United States)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -111,140 +101,31 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-ba5a0a58 (United States)",
-      "server": "spider-uaww-production.up.railway.app",
+      "tag": "🇺🇸 vless-cc81d41b (United States)",
+      "server": "testpoorias-production.up.railway.app",
       "server_port": 443,
-      "uuid": "47e5d296-5db4-44c2-98e5-aef48e1d21c3",
+      "uuid": "e5792a17-7849-46dd-bbf8-8e0d24f344db",
       "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "spider-uaww-production.up.railway.app",
+        "server_name": "testpoorias-production.up.railway.app",
         "insecure": true
       },
-      "transport": {
-        "path": "/ws/47e5d296-5db4-44c2-98e5-aef48e1d21c3",
-        "headers": {
-          "Host": "spider-uaww-production.up.railway.app"
-        },
-        "type": "ws"
-      }
+      "transport": {}
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-2ee2b833 (United States)",
-      "server": "spider-uaww-production.up.railway.app",
+      "tag": "🇺🇸 vless-03e7ee29 (United States)",
+      "server": "testpoorias-production.up.railway.app",
       "server_port": 443,
-      "uuid": "47e5d296-5db4-44c2-98e5-aef48e1d21c3",
+      "uuid": "e5792a17-7849-46dd-bbf8-8e0d24f344db",
       "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "spider-uaww-production.up.railway.app",
+        "server_name": "testpoorias-production.up.railway.app",
         "insecure": true
       },
-      "transport": {
-        "path": "/ws/47e5d296-5db4-44c2-98e5-aef48e1d21c3",
-        "headers": {
-          "Host": "spider-uaww-production.up.railway.app"
-        },
-        "type": "ws"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇺🇸 vless-75a65316 (United States)",
-      "server": "spider-26i0-production.up.railway.app",
-      "server_port": 443,
-      "uuid": "803cba21-6206-419e-8f8f-827228d9d6a2",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "spider-26i0-production.up.railway.app",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/ws/803cba21-6206-419e-8f8f-827228d9d6a2",
-        "headers": {
-          "Host": "spider-26i0-production.up.railway.app"
-        },
-        "type": "ws"
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "🇺🇸 vless-f35444cc (United States)",
-      "server": "spider-26i0-production.up.railway.app",
-      "server_port": 443,
-      "uuid": "803cba21-6206-419e-8f8f-827228d9d6a2",
-      "flow": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "spider-26i0-production.up.railway.app",
-        "insecure": true
-      },
-      "transport": {
-        "path": "/ws/803cba21-6206-419e-8f8f-827228d9d6a2",
-        "headers": {
-          "Host": "spider-26i0-production.up.railway.app"
-        },
-        "type": "ws"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇺🇸 trojan-2a33a980 (United States)",
-      "server": "pooriaredpooriajdndndxoxowowsoxkdjekskzjzsjwjdjjjjjjiilbgygenne.up.railway.app",
-      "server_port": 443,
-      "password": "62729b73-6654-d1e5-9023-8529339b364e",
-      "tls": {
-        "enabled": true,
-        "server_name": "pooriaredpooriajdndndxoxowowsoxkdjekskzjzsjwjdjjjjjjiilbgygenne.up.railway.app",
-        "alpn": [
-          "http/1.1"
-        ],
-        "insecure": true
-      },
-      "transport": {
-        "path": "/i/DJ4nB7iA1Sq-oee2BBw-aDgJer6NJdApnGryMr0ZjABtcG_61El-4_aHmrOHXVgdIQAEUUY6Fm7hSZj-qfOAp88H3bXI4YHsSVCN9rzzf0V2GggJD4mKlD1aheJJyNysvBTqsMFIU8rEjS04_Vg/trojan-ws",
-        "type": "ws"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇺🇸 trojan-6c1459f9 (United States)",
-      "server": "pooriaredpooriajdndndxoxowowsoxkdjekskzjzsjwjdjjjjjjiilbgygenne.up.railway.app",
-      "server_port": 443,
-      "password": "62729b73-6654-d1e5-9023-8529339b364e",
-      "tls": {
-        "enabled": true,
-        "server_name": "pooriaredpooriajdndndxoxowowsoxkdjekskzjzsjwjdjjjjjjiilbgygenne.up.railway.app",
-        "alpn": [
-          "http/1.1"
-        ],
-        "insecure": true
-      },
-      "transport": {
-        "path": "/i/DJ4nB7iA1Sq-oee2BBw-aDgJer6NJdApnGryMr0ZjABtcG_61El-4_aHmrOHXVgdIQAEUUY6Fm7hSZj-qfOAp88H3bXI4YHsSVCN9rzzf0V2GggJD4mKlD1aheJJyNysvBTqsMFIU8rEjS04_Vg/trojan-ws",
-        "type": "ws"
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "🇺🇸 trojan-d512b5b3 (United States)",
-      "server": "pooriamrefigha1pooria.up.railway.app",
-      "server_port": 443,
-      "password": "",
-      "tls": {
-        "enabled": true,
-        "server_name": "pooriamrefigha1pooria.up.railway.app",
-        "alpn": [
-          "http/1.1"
-        ],
-        "insecure": true
-      },
-      "transport": {
-        "path": "/i/0dQZ7SFynXAz5U1c9ME5ghj2eE-Vut2X4HCpfq7Py5Bky26OPlU371-Js8QB268jjmDu1MyH2uyE5odTZ0rSuVPeBpUn7hz6DDXNgFUtlfq5t07_EsKjVT6RYSqGbhdQ54E9ED_MpPHJ2Mhm5xI/trojan-ws",
-        "type": "ws"
-      }
+      "transport": {}
     }
   ],
   "route": {
