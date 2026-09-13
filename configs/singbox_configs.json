@@ -79,13 +79,13 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 vless-64949ba8 (United States)",
-        "🇺🇸 vless-f2ece7d9 (United States)",
-        "🇺🇸 vless-9821fdc8 (United States)",
-        "🇺🇸 vless-ef7412b9 (United States)",
-        "🇺🇸 trojan-9670b549 (United States)",
-        "🇺🇸 trojan-515ff46a (United States)",
-        "🇺🇸 trojan-4e4bc044 (United States)",
+        "🇺🇸 vless-b2ba250a (United States)",
+        "🇺🇸 vless-99bdec3d (United States)",
+        "🇺🇸 vless-1a724883 (United States)",
+        "🇺🇸 vless-a445c44a (United States)",
+        "🇺🇸 trojan-56c7398b (United States)",
+        "🇺🇸 trojan-e93c2a75 (United States)",
+        "🇺🇸 trojan-8bf9b039 (United States)",
         "direct"
       ]
     },
@@ -93,13 +93,13 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 vless-64949ba8 (United States)",
-        "🇺🇸 vless-f2ece7d9 (United States)",
-        "🇺🇸 vless-9821fdc8 (United States)",
-        "🇺🇸 vless-ef7412b9 (United States)",
-        "🇺🇸 trojan-9670b549 (United States)",
-        "🇺🇸 trojan-515ff46a (United States)",
-        "🇺🇸 trojan-4e4bc044 (United States)"
+        "🇺🇸 vless-b2ba250a (United States)",
+        "🇺🇸 vless-99bdec3d (United States)",
+        "🇺🇸 vless-1a724883 (United States)",
+        "🇺🇸 vless-a445c44a (United States)",
+        "🇺🇸 trojan-56c7398b (United States)",
+        "🇺🇸 trojan-e93c2a75 (United States)",
+        "🇺🇸 trojan-8bf9b039 (United States)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -111,7 +111,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-64949ba8 (United States)",
+      "tag": "🇺🇸 vless-b2ba250a (United States)",
       "server": "spider-uaww-production.up.railway.app",
       "server_port": 443,
       "uuid": "47e5d296-5db4-44c2-98e5-aef48e1d21c3",
@@ -131,7 +131,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-f2ece7d9 (United States)",
+      "tag": "🇺🇸 vless-99bdec3d (United States)",
       "server": "spider-uaww-production.up.railway.app",
       "server_port": 443,
       "uuid": "47e5d296-5db4-44c2-98e5-aef48e1d21c3",
@@ -151,7 +151,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-9821fdc8 (United States)",
+      "tag": "🇺🇸 vless-1a724883 (United States)",
       "server": "spider-26i0-production.up.railway.app",
       "server_port": 443,
       "uuid": "803cba21-6206-419e-8f8f-827228d9d6a2",
@@ -171,7 +171,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-ef7412b9 (United States)",
+      "tag": "🇺🇸 vless-a445c44a (United States)",
       "server": "spider-26i0-production.up.railway.app",
       "server_port": 443,
       "uuid": "803cba21-6206-419e-8f8f-827228d9d6a2",
@@ -191,7 +191,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇺🇸 trojan-9670b549 (United States)",
+      "tag": "🇺🇸 trojan-56c7398b (United States)",
       "server": "pooriaredpooriajdndndxoxowowsoxkdjekskzjzsjwjdjjjjjjiilbgygenne.up.railway.app",
       "server_port": 443,
       "password": "62729b73-6654-d1e5-9023-8529339b364e",
@@ -210,7 +210,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇺🇸 trojan-515ff46a (United States)",
+      "tag": "🇺🇸 trojan-e93c2a75 (United States)",
       "server": "pooriaredpooriajdndndxoxowowsoxkdjekskzjzsjwjdjjjjjjiilbgygenne.up.railway.app",
       "server_port": 443,
       "password": "62729b73-6654-d1e5-9023-8529339b364e",
@@ -229,7 +229,7 @@
     },
     {
       "type": "trojan",
-      "tag": "🇺🇸 trojan-4e4bc044 (United States)",
+      "tag": "🇺🇸 trojan-8bf9b039 (United States)",
       "server": "pooriamrefigha1pooria.up.railway.app",
       "server_port": 443,
       "password": "",
