@@ -79,8 +79,8 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 vless-650f1f1b (United States)",
-        "🇺🇸 vless-b42f5067 (United States)",
+        "🇺🇸 vless-5f2a5aeb (United States)",
+        "🇺🇸 vless-9afeba4f (United States)",
         "direct"
       ]
     },
@@ -88,8 +88,8 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 vless-650f1f1b (United States)",
-        "🇺🇸 vless-b42f5067 (United States)"
+        "🇺🇸 vless-5f2a5aeb (United States)",
+        "🇺🇸 vless-9afeba4f (United States)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -101,7 +101,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-650f1f1b (United States)",
+      "tag": "🇺🇸 vless-5f2a5aeb (United States)",
       "server": "testpoorias-production.up.railway.app",
       "server_port": 443,
       "uuid": "e5792a17-7849-46dd-bbf8-8e0d24f344db",
@@ -115,7 +115,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-b42f5067 (United States)",
+      "tag": "🇺🇸 vless-9afeba4f (United States)",
       "server": "testpoorias-production.up.railway.app",
       "server_port": 443,
       "uuid": "e5792a17-7849-46dd-bbf8-8e0d24f344db",
