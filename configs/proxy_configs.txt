@@ -4,7 +4,15 @@
 //support-url: https://t.me/pooria_red
 //profile-web-page-url: https://github.com/pooriaredorg
 
-vless://e5792a17-7849-46dd-bbf8-8e0d24f344db@testpoorias-production.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=testpoorias-production.up.railway.app&path=/xhttp-siz10/packet-up/e5792a17-7849-46dd-bbf8-8e0d24f344db&host=testpoorias-production.up.railway.app&mode=packet-up&extra=%7B%22xPaddingBytes%22:%22100-1000%22,%22mode%22:%22packet-up%22,%22scMaxEachPostBytes%22:%221000000%22%7D&alpn=h2,http/1.1#POORIA%F0%9F%A5%B7%F0%9F%8F%BB1%E2%9C%85xhttp%20p%20up
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@srtest-production.up.railway.app:443?type=ws&headerType=none&security=tls&fp=chrome&sni=srtest-production.up.railway.app&path=/SideRail/ws-NdqWfEjM&host=srtest-production.up.railway.app&alpn=http/1.1#pooria-%20VLESS-WS
 
-vless://e5792a17-7849-46dd-bbf8-8e0d24f344db@testpoorias-production.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=testpoorias-production.up.railway.app&path=/xhttp-siz10/stream-up/e5792a17-7849-46dd-bbf8-8e0d24f344db&host=testpoorias-production.up.railway.app&mode=stream-up&extra=%7B%22xPaddingBytes%22:%22100-1000%22,%22mode%22:%22stream-up%22,%22scMaxEachPostBytes%22:%221000000%22%7D&alpn=h2,http/1.1#POORIA%F0%9F%A5%B7%F0%9F%8F%BB1%E2%9C%85xhttp%20s%20up
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@srtest-production.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=srtest-production.up.railway.app&path=/SideRail/xhttp-lgGnS12c&host=srtest-production.up.railway.app&alpn=h2,http/1.1#pooria-%20VLESS-XHTTP
+
+vless://8d735019-5ee4-4694-829c-dbebf7f40c55@redfreee8pooria.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=redfreee8pooria.up.railway.app&path=/ws/8d735019-5ee4-4694-829c-dbebf7f40c55&host=redfreee8pooria.up.railway.app&alpn=http/1.1#%F0%9F%95%8A%EF%B8%8F-pooria
+
+vless://8d735019-5ee4-4694-829c-dbebf7f40c55@redfreee8pooria.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=redfreee8pooria.up.railway.app&path=/xhttp-siz10/packet-up/8d735019-5ee4-4694-829c-dbebf7f40c55&host=redfreee8pooria.up.railway.app&mode=packet-up&extra=%7B%22xPaddingBytes%22:%22100-1000%22,%22scMaxEachPostBytes%22:%221000000%22%7D&alpn=h2,http/1.1#%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-POORIA
+
+trojan://@app-production-3a74.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=app-production-3a74.up.railway.app&path=/txhttp-siz10/packet-up/1bd040fe-d388-1f23-8358-37f54f9f9389&host=app-production-3a74.up.railway.app&mode=packet-up&alpn=h2,http/1.1#%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-pooria%20xhttp%20p%20up
+
+trojan://@app-production-3a74.up.railway.app:443?type=xhttp&security=tls&fp=chrome&sni=app-production-3a74.up.railway.app&path=/txhttp-siz10/stream-up/77c010ba-bc3a-5640-9e84-2f9ba57c2adb&host=app-production-3a74.up.railway.app&mode=stream-up&alpn=h2,http/1.1#%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-pooria%20xhttp%20s%20up
 

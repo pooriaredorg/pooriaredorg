@@ -79,8 +79,12 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 vless-fd972074 (United States)",
-        "🇺🇸 vless-5ba3e011 (United States)",
+        "🇺🇸 vless-293b6a06 (United States)",
+        "🇺🇸 vless-c0852880 (United States)",
+        "🇺🇸 vless-044d81c8 (United States)",
+        "🇺🇸 vless-c32960fe (United States)",
+        "🇺🇸 trojan-e9bd6fa9 (United States)",
+        "🇺🇸 trojan-3b0b2d36 (United States)",
         "direct"
       ]
     },
@@ -88,8 +92,12 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 vless-fd972074 (United States)",
-        "🇺🇸 vless-5ba3e011 (United States)"
+        "🇺🇸 vless-293b6a06 (United States)",
+        "🇺🇸 vless-c0852880 (United States)",
+        "🇺🇸 vless-044d81c8 (United States)",
+        "🇺🇸 vless-c32960fe (United States)",
+        "🇺🇸 trojan-e9bd6fa9 (United States)",
+        "🇺🇸 trojan-3b0b2d36 (United States)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -101,31 +109,111 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-fd972074 (United States)",
-      "server": "testpoorias-production.up.railway.app",
+      "tag": "🇺🇸 vless-293b6a06 (United States)",
+      "server": "srtest-production.up.railway.app",
       "server_port": 443,
-      "uuid": "e5792a17-7849-46dd-bbf8-8e0d24f344db",
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
       "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "testpoorias-production.up.railway.app",
+        "server_name": "srtest-production.up.railway.app",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/SideRail/ws-NdqWfEjM",
+        "headers": {
+          "Host": "srtest-production.up.railway.app"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-c0852880 (United States)",
+      "server": "srtest-production.up.railway.app",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "srtest-production.up.railway.app",
         "insecure": true
       },
       "transport": {}
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-5ba3e011 (United States)",
-      "server": "testpoorias-production.up.railway.app",
+      "tag": "🇺🇸 vless-044d81c8 (United States)",
+      "server": "redfreee8pooria.up.railway.app",
       "server_port": 443,
-      "uuid": "e5792a17-7849-46dd-bbf8-8e0d24f344db",
+      "uuid": "8d735019-5ee4-4694-829c-dbebf7f40c55",
       "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "testpoorias-production.up.railway.app",
+        "server_name": "redfreee8pooria.up.railway.app",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/ws/8d735019-5ee4-4694-829c-dbebf7f40c55",
+        "headers": {
+          "Host": "redfreee8pooria.up.railway.app"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-c32960fe (United States)",
+      "server": "redfreee8pooria.up.railway.app",
+      "server_port": 443,
+      "uuid": "8d735019-5ee4-4694-829c-dbebf7f40c55",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "redfreee8pooria.up.railway.app",
         "insecure": true
       },
       "transport": {}
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 trojan-e9bd6fa9 (United States)",
+      "server": "app-production-3a74.up.railway.app",
+      "server_port": 443,
+      "password": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "app-production-3a74.up.railway.app",
+        "alpn": [
+          "h2",
+          "http/1.1"
+        ],
+        "insecure": true
+      },
+      "transport": {
+        "path": "/txhttp-siz10/packet-up/1bd040fe-d388-1f23-8358-37f54f9f9389",
+        "type": "xhttp"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇺🇸 trojan-3b0b2d36 (United States)",
+      "server": "app-production-3a74.up.railway.app",
+      "server_port": 443,
+      "password": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "app-production-3a74.up.railway.app",
+        "alpn": [
+          "h2",
+          "http/1.1"
+        ],
+        "insecure": true
+      },
+      "transport": {
+        "path": "/txhttp-siz10/stream-up/77c010ba-bc3a-5640-9e84-2f9ba57c2adb",
+        "type": "xhttp"
+      }
     }
   ],
   "route": {
