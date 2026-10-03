@@ -79,12 +79,16 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 vless-aa7de381 (United States)",
-        "🇺🇸 vless-19fdfa02 (United States)",
-        "🇺🇸 vless-ea07bf5c (United States)",
-        "🇺🇸 vless-2702cb7f (United States)",
-        "🇺🇸 vless-578d6584 (United States)",
-        "🇺🇸 vless-e21e075d (United States)",
+        "🇺🇸 vless-c0c501a8 (United States)",
+        "🇨🇦 vless-e1fffbe2 (Canada)",
+        "🇺🇸 vless-c1381fbc (United States)",
+        "🇺🇸 vless-b701df93 (United States)",
+        "🇺🇸 vless-c6a57445 (United States)",
+        "🇺🇸 vless-527f0733 (United States)",
+        "🇺🇸 vless-702e9cf4 (United States)",
+        "🇺🇸 vless-e1320612 (United States)",
+        "🇺🇸 vless-bbee6d9f (United States)",
+        "🇺🇸 vless-38d1b5cc (United States)",
         "direct"
       ]
     },
@@ -92,12 +96,16 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 vless-aa7de381 (United States)",
-        "🇺🇸 vless-19fdfa02 (United States)",
-        "🇺🇸 vless-ea07bf5c (United States)",
-        "🇺🇸 vless-2702cb7f (United States)",
-        "🇺🇸 vless-578d6584 (United States)",
-        "🇺🇸 vless-e21e075d (United States)"
+        "🇺🇸 vless-c0c501a8 (United States)",
+        "🇨🇦 vless-e1fffbe2 (Canada)",
+        "🇺🇸 vless-c1381fbc (United States)",
+        "🇺🇸 vless-b701df93 (United States)",
+        "🇺🇸 vless-c6a57445 (United States)",
+        "🇺🇸 vless-527f0733 (United States)",
+        "🇺🇸 vless-702e9cf4 (United States)",
+        "🇺🇸 vless-e1320612 (United States)",
+        "🇺🇸 vless-bbee6d9f (United States)",
+        "🇺🇸 vless-38d1b5cc (United States)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -109,7 +117,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-aa7de381 (United States)",
+      "tag": "🇺🇸 vless-c0c501a8 (United States)",
       "server": "germanidddfhjbcdsssdcbnkuytesasxvbmkjaaaaaadgybvfdmmbrxwu.up.railway.app",
       "server_port": 443,
       "uuid": "055137a2-1ec2-4881-b244-92cf1720124b",
@@ -129,7 +137,27 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-19fdfa02 (United States)",
+      "tag": "🇨🇦 vless-e1fffbe2 (Canada)",
+      "server": "iranishop.redorg1.ir",
+      "server_port": 443,
+      "uuid": "0b2042fc-c5ac-8282-d0eb-de937979831c",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "iranishop10.pooriashop10-983.workers.dev",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/sync",
+        "headers": {
+          "Host": "iranishop10.pooriashop10-983.workers.dev"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-c1381fbc (United States)",
       "server": "redshopbabolsar.up.railway.app",
       "server_port": 443,
       "uuid": "4277ba0d-aed6-407f-835c-197c75ea893c",
@@ -149,7 +177,67 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-ea07bf5c (United States)",
+      "tag": "🇺🇸 vless-b701df93 (United States)",
+      "server": "speedtestmazandaran.up.railway.app",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "speedtestmazandaran.up.railway.app",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/ws/53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+        "headers": {
+          "Host": "speedtestmazandaran.up.railway.app"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-c6a57445 (United States)",
+      "server": "speedtestshomal.up.railway.app",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "speedtestshomal.up.railway.app",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/ws/53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+        "headers": {
+          "Host": "speedtestshomal.up.railway.app"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-527f0733 (United States)",
+      "server": "kalesportshomal.up.railway.app",
+      "server_port": 443,
+      "uuid": "82bff4b6-dd3e-4fe7-8c40-749b3f33138a",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "kalesportshomal.up.railway.app",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/ws/82bff4b6-dd3e-4fe7-8c40-749b3f33138a",
+        "headers": {
+          "Host": "kalesportshomal.up.railway.app"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 vless-702e9cf4 (United States)",
       "server": "pooriaredgyhhdtuuugrdgythiiiiitggsfhtujgxdfgfghhhuujjig-on-a2c2.up.railway.app",
       "server_port": 443,
       "uuid": "8871c566-3cc1-4301-a475-807699738f49",
@@ -169,7 +257,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-2702cb7f (United States)",
+      "tag": "🇺🇸 vless-e1320612 (United States)",
       "server": "babolsarshoping.up.railway.app",
       "server_port": 443,
       "uuid": "925c2ad6-460a-44be-b5ec-89f73f850303",
@@ -189,7 +277,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-578d6584 (United States)",
+      "tag": "🇺🇸 vless-bbee6d9f (United States)",
       "server": "iranredshop.up.railway.app",
       "server_port": 443,
       "uuid": "bd765cd0-a085-4a83-9360-5d45d654900f",
@@ -209,7 +297,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-e21e075d (United States)",
+      "tag": "🇺🇸 vless-38d1b5cc (United States)",
       "server": "mazandaran.up.railway.app",
       "server_port": 443,
       "uuid": "d9ad5acb-f0c1-4d11-a122-878b70f34201",
