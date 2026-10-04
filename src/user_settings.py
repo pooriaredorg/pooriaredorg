@@ -3,10 +3,10 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://raw.githubusercontent.com/pooriaredorg/POORIARED/refs/heads/main/POORIARED.txt",
-    "https://raw.githubusercontent.com/pooriaredorg/POORIA--REDFREE8/refs/heads/main/POORIAM--REDFREE8.txt",
-    "https://raw.githubusercontent.com/pooriaredorg/RED/refs/heads/main/RED.txt",
-    # "https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages0/refs/heads/main/POORIAREDORG.pages.txt",
+    "https://raw.githubusercontent.com/pooriaredorg/POORIARED/refs/heads/main/redPOORIARED.txt",
+    "https://raw.githubusercontent.com/pooriaredorg/POORIA--REDFREE8/refs/heads/main/redPOORIAM--REDFREE8.txt",
+    "https://raw.githubusercontent.com/pooriaredorg/RED/refs/heads/main/redRED.txt",
+    # "https://raw.githubusercontent.com/pooriaredorg/redPOORIAREDORG.pages0/refs/heads/main/POORIAREDORG.pages.txt",
     "https://t.me/s/redfree8sss",
     # "https://t.me/s/redfree8",
     # Add more URLs here if you want to include additional sources.
