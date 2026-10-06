@@ -10,12 +10,6 @@ vless://4277ba0d-aed6-407f-835c-197c75ea893c@redshopbabolsar.up.railway.app:443?
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@speedtestmazandaran.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=speedtestmazandaran.up.railway.app&path=/ws/53fa8faf-ba4b-4322-9c69-a3e5b1555049&host=speedtestmazandaran.up.railway.app&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB%F0%9F%A4%ACPOORIAMRED3
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@speedtestshomal.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=speedtestshomal.up.railway.app&path=/ws/53fa8faf-ba4b-4322-9c69-a3e5b1555049&host=speedtestshomal.up.railway.app&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB%F0%9F%A4%ACPOORIAMRED2
-
-vless://82bff4b6-dd3e-4fe7-8c40-749b3f33138a@kalesportshomal.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=kalesportshomal.up.railway.app&path=/ws/82bff4b6-dd3e-4fe7-8c40-749b3f33138a&host=kalesportshomal.up.railway.app&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB%F0%9F%A4%ACPOORIAMRED1
-
-vless://8871c566-3cc1-4301-a475-807699738f49@pooriaredgyhhdtuuugrdgythiiiiitggsfhtujgxdfgfghhhuujjig-on-a2c2.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=pooriaredgyhhdtuuugrdgythiiiiitggsfhtujgxdfgfghhhuujjig-on-a2c2.up.railway.app&path=/ws/8871c566-3cc1-4301-a475-807699738f49&host=pooriaredgyhhdtuuugrdgythiiiiitggsfhtujgxdfgfghhhuujjig-on-a2c2.up.railway.app&alpn=http/1.1#%F0%9F%9A%A8%F0%9F%86%98POORIA9
-
 vless://91eae6c4-f4de-b91c-3a81-9ac2e3000b99@www.speedtest.net:443?ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&sni=pooriared.pooriaultrapanell1.workers.dev&security=tls&type=ws&encryption=none&host=pooriared.pooriaultrapanell1.workers.dev&path=%2Fsync&allowInsecure=0&insecure=0&fp=chrome#POORIARED-ultrapanel2
 
 vless://91eae6c4-f4de-b91c-3a81-9ac2e3000b99@www.speedtest.net:443?encryption=none&fp=chrome&insecure=0&sni=pooriared.pooriaultrapanel.workers.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&security=tls&allowInsecure=0&type=ws&path=%2Fsync&host=pooriared.pooriaultrapanel.workers.dev#POORIARED-ultrapanel3
@@ -24,9 +18,5 @@ vless://91eae6c4-f4de-b91c-3a81-9ac2e3000b99@www.speedtest.net:443?insecure=0&ty
 
 vless://91eae6c4-f4de-b91c-3a81-9ac2e3000b99@www.speedtest.net:443?type=ws&path=%2Fsync&encryption=none&sni=pooriared.pooriaultrapanel2.workers.dev&host=pooriared.pooriaultrapanel2.workers.dev&allowInsecure=0&insecure=0&security=tls&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1#POORIARED-ultrapanel
 
-vless://925c2ad6-460a-44be-b5ec-89f73f850303@babolsarshoping.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=babolsarshoping.up.railway.app&path=/ws/925c2ad6-460a-44be-b5ec-89f73f850303&host=babolsarshoping.up.railway.app&alpn=http/1.1#%F0%9F%9A%A8%F0%9F%86%98POORIA7
-
 vless://bd765cd0-a085-4a83-9360-5d45d654900f@iranredshop.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=iranredshop.up.railway.app&path=/ws/bd765cd0-a085-4a83-9360-5d45d654900f&host=iranredshop.up.railway.app&alpn=http/1.1#%F0%9F%9A%A8%F0%9F%86%98POORIA4
-
-vless://d9ad5acb-f0c1-4d11-a122-878b70f34201@mazandaran.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=mazandaran.up.railway.app&path=/ws/d9ad5acb-f0c1-4d11-a122-878b70f34201&host=mazandaran.up.railway.app&alpn=http/1.1#%F0%9F%9A%A8%F0%9F%86%98POORIA1
 
