@@ -4,10 +4,6 @@
 //support-url: https://t.me/pooria_red
 //profile-web-page-url: https://github.com/pooriaredorg
 
-vless://055137a2-1ec2-4881-b244-92cf1720124b@germanidddfhjbcdsssdcbnkuytesasxvbmkjaaaaaadgybvfdmmbrxwu.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=germanidddfhjbcdsssdcbnkuytesasxvbmkjaaaaaadgybvfdmmbrxwu.up.railway.app&path=/ws/055137a2-1ec2-4881-b244-92cf1720124b&host=germanidddfhjbcdsssdcbnkuytesasxvbmkjaaaaaadgybvfdmmbrxwu.up.railway.app&alpn=http/1.1#%F0%9F%9A%A8%F0%9F%86%98POORIA6
-
-vless://4277ba0d-aed6-407f-835c-197c75ea893c@redshopbabolsar.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=redshopbabolsar.up.railway.app&path=/ws/4277ba0d-aed6-407f-835c-197c75ea893c&host=redshopbabolsar.up.railway.app&alpn=http/1.1#%F0%9F%9A%A8%F0%9F%86%98POORIA2
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@speedtestmazandaran.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=speedtestmazandaran.up.railway.app&path=/ws/53fa8faf-ba4b-4322-9c69-a3e5b1555049&host=speedtestmazandaran.up.railway.app&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB%F0%9F%A4%ACPOORIAMRED3
 
 vless://91eae6c4-f4de-b91c-3a81-9ac2e3000b99@www.speedtest.net:443?ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&sni=pooriared.pooriaultrapanell1.workers.dev&security=tls&type=ws&encryption=none&host=pooriared.pooriaultrapanell1.workers.dev&path=%2Fsync&allowInsecure=0&insecure=0&fp=chrome#POORIARED-ultrapanel2
@@ -17,6 +13,4 @@ vless://91eae6c4-f4de-b91c-3a81-9ac2e3000b99@www.speedtest.net:443?encryption=no
 vless://91eae6c4-f4de-b91c-3a81-9ac2e3000b99@www.speedtest.net:443?insecure=0&type=ws&allowInsecure=0&fp=chrome&encryption=none&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&host=pooriared.pooriaultrapanel3.workers.dev&security=tls&sni=pooriared.pooriaultrapanel3.workers.dev&path=%2Fsync#POORIARED-ultrapanel1
 
 vless://91eae6c4-f4de-b91c-3a81-9ac2e3000b99@www.speedtest.net:443?type=ws&path=%2Fsync&encryption=none&sni=pooriared.pooriaultrapanel2.workers.dev&host=pooriared.pooriaultrapanel2.workers.dev&allowInsecure=0&insecure=0&security=tls&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1#POORIARED-ultrapanel
-
-vless://bd765cd0-a085-4a83-9360-5d45d654900f@iranredshop.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=iranredshop.up.railway.app&path=/ws/bd765cd0-a085-4a83-9360-5d45d654900f&host=iranredshop.up.railway.app&alpn=http/1.1#%F0%9F%9A%A8%F0%9F%86%98POORIA4
 
