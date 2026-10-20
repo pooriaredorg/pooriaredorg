@@ -6,6 +6,8 @@
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@speedtestmazandaran.up.railway.app:443?type=ws&security=tls&fp=chrome&sni=speedtestmazandaran.up.railway.app&path=/ws/53fa8faf-ba4b-4322-9c69-a3e5b1555049&host=speedtestmazandaran.up.railway.app&alpn=http/1.1#%F0%9F%A5%B7%F0%9F%8F%BB%F0%9F%A4%ACPOORIAMRED3
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?sni=pooriapazevariz1b1bbjdjw4.pooria.de5.net&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1&type=ws&path=%2Fws%2F53fa8faf-ba4b-4322-9c69-a3e5b1555049&encryption=none&allowInsecure=0&security=tls&insecure=0&host=pooriapazevariz1b1bbjdjw4.pooria.de5.net#%F0%9F%AB%82VIP1%F0%9F%95%8A%EF%B8%8Fpooriapazevariz1b1bbjdjw4.pooria.de5.net
+
 vless://91eae6c4-f4de-b91c-3a81-9ac2e3000b99@www.speedtest.net:443?ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&sni=pooriared.pooriaultrapanell1.workers.dev&security=tls&type=ws&encryption=none&host=pooriared.pooriaultrapanell1.workers.dev&path=%2Fsync&allowInsecure=0&insecure=0&fp=chrome#POORIARED-ultrapanel2
 
 vless://91eae6c4-f4de-b91c-3a81-9ac2e3000b99@www.speedtest.net:443?encryption=none&fp=chrome&insecure=0&sni=pooriared.pooriaultrapanel.workers.dev&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&security=tls&allowInsecure=0&type=ws&path=%2Fsync&host=pooriared.pooriaultrapanel.workers.dev#POORIARED-ultrapanel3

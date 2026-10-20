@@ -79,11 +79,12 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 vless-05006f93 (United States)",
-        "🇨🇦 vless-f0f9353d (Canada)",
-        "🇨🇦 vless-f7efbb14 (Canada)",
-        "🇨🇦 vless-63d5acaa (Canada)",
-        "🇨🇦 vless-1aaaf436 (Canada)",
+        "🇺🇸 vless-e8482502 (United States)",
+        "🇨🇦 vless-2b6c8fce (Canada)",
+        "🇨🇦 vless-345e81ba (Canada)",
+        "🇨🇦 vless-9cc3b76b (Canada)",
+        "🇨🇦 vless-83345a91 (Canada)",
+        "🇨🇦 vless-e82ecbc1 (Canada)",
         "direct"
       ]
     },
@@ -91,11 +92,12 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 vless-05006f93 (United States)",
-        "🇨🇦 vless-f0f9353d (Canada)",
-        "🇨🇦 vless-f7efbb14 (Canada)",
-        "🇨🇦 vless-63d5acaa (Canada)",
-        "🇨🇦 vless-1aaaf436 (Canada)"
+        "🇺🇸 vless-e8482502 (United States)",
+        "🇨🇦 vless-2b6c8fce (Canada)",
+        "🇨🇦 vless-345e81ba (Canada)",
+        "🇨🇦 vless-9cc3b76b (Canada)",
+        "🇨🇦 vless-83345a91 (Canada)",
+        "🇨🇦 vless-e82ecbc1 (Canada)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -107,7 +109,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇺🇸 vless-05006f93 (United States)",
+      "tag": "🇺🇸 vless-e8482502 (United States)",
       "server": "speedtestmazandaran.up.railway.app",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -127,7 +129,27 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-f0f9353d (Canada)",
+      "tag": "🇨🇦 vless-2b6c8fce (Canada)",
+      "server": "www.speedtest.net",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "pooriapazevariz1b1bbjdjw4.pooria.de5.net",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/ws/53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+        "headers": {
+          "Host": "pooriapazevariz1b1bbjdjw4.pooria.de5.net"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇨🇦 vless-345e81ba (Canada)",
       "server": "www.speedtest.net",
       "server_port": 443,
       "uuid": "91eae6c4-f4de-b91c-3a81-9ac2e3000b99",
@@ -147,7 +169,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-f7efbb14 (Canada)",
+      "tag": "🇨🇦 vless-9cc3b76b (Canada)",
       "server": "www.speedtest.net",
       "server_port": 443,
       "uuid": "91eae6c4-f4de-b91c-3a81-9ac2e3000b99",
@@ -167,7 +189,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-63d5acaa (Canada)",
+      "tag": "🇨🇦 vless-83345a91 (Canada)",
       "server": "www.speedtest.net",
       "server_port": 443,
       "uuid": "91eae6c4-f4de-b91c-3a81-9ac2e3000b99",
@@ -187,7 +209,7 @@
     },
     {
       "type": "vless",
-      "tag": "🇨🇦 vless-1aaaf436 (Canada)",
+      "tag": "🇨🇦 vless-e82ecbc1 (Canada)",
       "server": "www.speedtest.net",
       "server_port": 443,
       "uuid": "91eae6c4-f4de-b91c-3a81-9ac2e3000b99",
